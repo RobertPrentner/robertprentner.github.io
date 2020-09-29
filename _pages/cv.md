@@ -19,7 +19,7 @@ Education
 Professional Activities
 ======
 * Guest Editor, Models of Consciousness, Entropy, 2019/20.
-* Guest Editor, Epistemeic Feelings: Phenomenology, Implemenation, and Role in Cognition, Frontiers in Psychology, 2019/2020
+* Guest Editor, Epistemeic Feelings: Phenomenology, Implementation, and Role in Cognition, Frontiers in Psychology, 2019/2020
 * Editorial Team Mind and Matter 2015- 
 
 Reviewer Activits
@@ -38,7 +38,7 @@ Teaching Experiences
 
 Scholarships and Honors
 ======
-* PostDoc.Mobility Fellowship 2017/18
+* PostDoc.Mobility Fellowship 2018
 * ETH Medal 2013
 * Participation at the Manfred-Eigen-Nachwuchsgespräche 2008
 * Willi-Studer Price for the best diploma (Interdisciplinary Sciences) 2008
