@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Robert Prentner's homepage"
 title_separator          : "-"
-name                     : &name "Robeert Prentner"
+name                     : &name "Robert Prentner"
 description              : &description "personal description"
 url                      : https://robertprentner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Robert Prentner"
-  avatar           : "portrait.jpeg"
+  avatar           : "prentner_portrait_bw.jpg"
   bio              : "Consciousness and AI. Former quantum physicist and philosopher."
   location         : "Zürich, Switzerland"
   employer         :
