@@ -11,13 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D., Yale University, 2020
-* B.S., Peking University, 2014
+* Ph.D., Interdisciplinary Sciences, ETH Zürich, 2013
+* M.A., History and Philosophy of Knowledge, ETH Zürich, 2012
+* M.S., Interdisciplinary Sciences, ETH Zürich 2008
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 
 Professional Activities
 ======
-* Area chair of ICLR 2021
+* Guest Editor, Models of Consciousness, Entropy, 2019/20.
+* Guest Editor, Epistmeic Feelings, Frontiers in Psychology, 2019/2020
+* Editorial Team Mind and Matter 2015- 
+
+Reviewer Activits
+======
+
 * Reviewer of NeurIPS 2020 (6 papers)
 * Reviewer of COLT 2020
 * Reviewer of ISIT 2020
@@ -68,16 +75,11 @@ Professional Activities
 
 Presentations
 ======
-* Talk and poster presentation at ITA 2020, San Diego, CA, Feb 2020.
-* Two poster presentations on 13th Annual Machine Learning Symposium, New York, NY, USA, March 1, 2019.
+* ...
 
-Teaching Experiences
-======
-* Teaching fellow for Computational Tools for Data Science (S&DS 262a / AMTH 262a / CPSC 262a), 2017 Fall.
-* Teaching fellow for Randomized Algorithms (CPSC 469/569), 2016 Fall.
-* Teaching fellow for Stochastic Process (ENAS 496 / ENAS 502 / MATH 251 / STAT 251 / STAT 551), 2016 Spring.
 
-Work experience
+
+Professional experience
 ======
 <!-- * Summer 2015: Research Assistant
   * Github University
@@ -92,30 +94,17 @@ Work experience
 * Research intern, Google, New York City, 2018 summer.
 * Research intern, Google, Mountain View, 2017 summer.
 
-<!-- Selected Honors and Awards -->
+Teaching Experiences
+======
+* ...
 
 Scholarships and Honors
 ======
-* Google Ph.D. Fellowship, Apr 2018
-* NIPS Travel Award 2017
-* Yale Conference Travel Fellowship Award, Feb 2017
-* One of 10 Best Bachelor’s Theses, School of EECS, Peking University, June 2014
-* Beijing Outstanding University Undergraduate, May 2014
-* Peking University Outstanding Undergraduate, May 2014
-* Academic Rising Star, School of EECS, Peking University, May 2014
-* Google Excellence Scholarship, Google Inc., the United States, 2013
-* Yihai Kerry Scholarship, Yihai Kerry Investment Co, Ltd. (YHK Group), 2013
-* Tencent Innovation Scholarship, Tencent Holdings Limited, 2012
-* Excellent Student Award, Peking University, 2011
-* National Scholarship, Ministry of Education of the People’s Republic of China, 2011
+* PostDoc.Mobility Fellowship 2017/18
+* ETH Medal 2013
+* Participation ath
+* Willi-Studer Price for the Best Diploma (Interdisciplinary Sciences) 2008
 
-Competitions
-======
-* Meritorious Winner, Mathematical Contest in Modeling (MCM), Consortium for Mathematics and Its Applications (COMAP), the United States, 2013
-* 1st Prize in Beijing, China Undergraduate Mathematical Contest in Modeling (CUMCM), China Society for Industrial and Applied Mathematics (CSIAM), 2012 
-* 3rd Prize, the 11th Peking University Programming Contest cum the Selective Trial for the ACM/ICPC Team of Peking University, 2012
-* 3rd Prize, the 10th Peking University Programming Contest cum the Selective Trial for the ACM/ICPC Team of Peking University, 2011
-* 2nd Prize, National High School Mathematics Olympiad of China, 2009
   
 <!-- Skills
 ======
@@ -132,6 +121,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Patents
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Talks
 ======
   <ul>{% for post in site.talks %}
