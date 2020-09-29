@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D., Interdisciplinary Sciences, ETH Zürich, 2013
-* M.A., History and Philosophy of Knowledge, ETH Zürich, 2012
-* M.S., Interdisciplinary Sciences, ETH Zürich 2008
+* Doctor of Science, ETEH Zürich, 2017
+* Doctor of Science, ETH Zürich, 2013
+* M.A. History and Philosophy of Knowledge, ETH Zürich, 2012
+* M.S. Interdisciplinary Sciences, ETH Zürich 2008
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 
 Professional Activities
