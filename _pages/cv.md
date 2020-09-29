@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* Doctor of Science, ETEH Zürich, 2017
+* Doctor of Science, ETH Zürich, 2017
 * Doctor of Science, ETH Zürich, 2013
 * M.A. History and Philosophy of Knowledge, ETH Zürich, 2012
 * M.S. Interdisciplinary Sciences, ETH Zürich 2008
-<!-- * M.S. in Jekyll, GitHub University, 2014 -->
 
 Professional Activities
 ======
 * Guest Editor, Models of Consciousness, Entropy, 2019/20.
-* Guest Editor, Epistmeic Feelings, Frontiers in Psychology, 2019/2020
+* Guest Editor, Epistemeic Feelings: Phenomenology, Implemenation, and Role in Cognition, Frontiers in Psychology, 2019/2020
 * Editorial Team Mind and Matter 2015- 
 
 Reviewer Activits
