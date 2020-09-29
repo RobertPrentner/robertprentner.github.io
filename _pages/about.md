@@ -12,8 +12,10 @@ redirect_from:
 
 <!-- Dr. Dr. Robert Prentner -->
 
-Robert Prentner does research on conscoiousness and AI. Former quantum physicists and philosopher
+Conscoiousness and AI. Former quantum physicists and philosopher.
+
 He receveid a doctorate in physical chemistry in 2013 and a doctorate in philosophy in 2017 from [ETH Zürich](https://www.ethz.ch/). 
+
 <!-- , advised by Prof [Amin Karbasi](http://iid.yale.edu/). -->
 His [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 4.
 
