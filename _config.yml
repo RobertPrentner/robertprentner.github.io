@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Robert Prentner's homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Robert Prentner"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Robert Prentner"
   avatar           : "prentner_portrait_bw.jpg"
-  bio              : "IT from CIT."
+  bio              : "IT from CIT "https://en.wikipedia.org/wiki/Citta".
   location         : "Zürich, Switzerland"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=ZYcFVxoAAAAJ&hl=de"
