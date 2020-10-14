@@ -18,6 +18,17 @@ Education
 
 Professional Experience
 ======
+* July 2018 - June 2020: Postdoctoral research, Department of Cognitive Sciences, University of California, Irvine, with Professor Donald D. Hoffman.
+* October 2017 - June 2018: Postdoctoral research, Biocommunication, ETH Zürich, with Professor Consuelo M. De Moraes (joint industry project with Bühler AG, Uzwil).
+* February 2014 - June 2017: Associate lecturer, Chair of Philosophy, ETH Zürich, with Professor Michael Hampe.
+* September 2014 – December 2014: Visitor to the Centre for the Foundations of Science, University of Sydney, with Prof. Stephen Gaukroger.
+* September 2013 - July 2017: Doctoral research at the project Chemistry & Consciousness, Chair of Philosophy, ETH Zürich, with Professor Michael Hampe.
+* April 2013 - August 2013: Researcher, Laboratory of Physical Chemistry, ETH Zürich, with Professor Martin Quack.
+* January 2013 - March 2013: Visiting Research Scholar, Center for the Explanation of Consciousness, Stanford University, with Professor Paul Skokowski.
+* 2011 - 2012: Doctoral research at the project Spectroscopy, Quantum Dynamics and Electroweak Parity Violation in Chiral Molecules, funded by the European Research Council (ERC), Laboratory of Physical Chemistry, ETH Zürich, with Professor Martin Quack.
+* 2008 - 2011: Doctoral researcher at the project Infrared Photochemistry and Molecular Chirality, funded by the Schweizerischer Nationalfonds (SNF), Laboratory of Physical Chemistry, ETH Zürich, with Professor Martin Quack.
+* 2008 - 2012: Teaching assistant, Laboratory of Physical Chemistry, ETH Zürich.
+
 
 Editorial Activities
 ======
@@ -28,11 +39,23 @@ Editorial Activities
 
 Reviewer Activities
 ======
-* Angewandte Chemie, Applied Sciences, Communicative & Integrative Biology, Constructivist Foundations, Entropy, Journal of Consciousness Studies, Mind and Matter, OpenPhilosphy, Philosophies, Philosophy of Science, Proceedings of the Royal Society A. 
+* Angewandte Chemie, Applied Sciences, Communicative & Integrative Biology, Consciousness and Cognition, Constructivist Foundations, Entropy, Information, Journal of Consciousness Studies, Mind and Matter, OpenPhilosphy, Philosophies, Philosophy of Science, Proceedings of the Royal Society A. 
 
 Teaching Experiences
 ======
-* ...
+*The Mind-Body Problem*, Winter quarter 2019, University of California, Irvine (guest lecture with Donald Hoffman)
+*Consciousness: from philosophy to neuroscience*, Fall semester 2017, Institute of Neuroinformatics, Uni/ETH Zürich (guest lecture with Alex Gamma and Daniel Kiper)
+*Languages of Thought. Introduction into Symbolizations of Mind*, Spring semesters 2015/16, ETH Zürich (together with Norman Sieroka)
+Philosophy of Chemistry, Spring semesters 2015/16, ETH Zürich.
+Philosophy of the Natural Sciences (together with Michael Hampe and Norman Sieroka), Spring semester 2014, ETH Zürich
+Advanced Kinetics (assistant to Martin Quack), Spring semesters 2009 - 2012, ETH Zürich.
+Chemical Kinetics (assistant to Martin Quack), Fall semesters 2008 - 2012, ETH Zürich. Thermodynamics (assistant to Jürgen Stohner), Spring semester 2006, ETH Zürich.
+
+Student Supervisions
+2016/17: Annina Haller, term paper, Master of Arts in History and Philosophy of Knowledge, topic: Emergence and Gestalt psychology.
+2015/16: Stefan Kaiser, term paper, Master of Arts in History and Philosophy of Knowledge, topic: First- and third-person perspectives in consciousness studies.
+2010/11: Gunther Wichmann, Bachelor thesis, Interdisciplinary Sciences, topic: Parity violation and wavepacket dynamics in H2S2-isotopomers.  
+
 
 Workshops and Conferences
 ======
