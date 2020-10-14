@@ -16,25 +16,28 @@ Education
 * M.A. History and Philosophy of Knowledge, ETH Zürich, 2012
 * M.S. Interdisciplinary Sciences, ETH Zürich 2008
 
-Professional Activities
+Professional Experience
 ======
+
+Editorial Activities
+======
+* Editorial Team Mind and Matter 2015- 
 * Guest Editor, Models of Consciousness, Entropy, 2019/20.
 * Guest Editor, Epistemeic Feelings: Phenomenology, Implementation, and Role in Cognition, Frontiers in Psychology, 2019/2020
-* Editorial Team Mind and Matter 2015- 
 
-Reviewer Activits
+
+Reviewer Activities
 ======
-
-* ...
-
-Presentations
-======
-* ...
-
+* Angewandte Chemie, Applied Sciences, Communicative & Integrative Biology, Constructivist Foundations, Entropy, Journal of Consciousness Studies, Mind and Matter, OpenPhilosphy, Philosophies, Philosophy of Science, Proceedings of the Royal Society A, 
 
 Teaching Experiences
 ======
 * ...
+
+Workshops and Conferences
+======
+* ...
+
 
 Scholarships and Honors
 ======
