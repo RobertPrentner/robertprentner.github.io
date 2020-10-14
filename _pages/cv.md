@@ -43,18 +43,20 @@ Reviewer Activities
 
 Teaching Experiences
 ======
-*The Mind-Body Problem*, Winter quarter 2019, University of California, Irvine (guest lecture with Donald Hoffman)
-*Consciousness: from philosophy to neuroscience*, Fall semester 2017, Institute of Neuroinformatics, Uni/ETH Zürich (guest lecture with Alex Gamma and Daniel Kiper)
-*Languages of Thought. Introduction into Symbolizations of Mind*, Spring semesters 2015/16, ETH Zürich (together with Norman Sieroka)
-Philosophy of Chemistry, Spring semesters 2015/16, ETH Zürich.
-Philosophy of the Natural Sciences (together with Michael Hampe and Norman Sieroka), Spring semester 2014, ETH Zürich
-Advanced Kinetics (assistant to Martin Quack), Spring semesters 2009 - 2012, ETH Zürich.
-Chemical Kinetics (assistant to Martin Quack), Fall semesters 2008 - 2012, ETH Zürich. Thermodynamics (assistant to Jürgen Stohner), Spring semester 2006, ETH Zürich.
+* *The Mind-Body Problem*, Winter quarter 2019, University of California, Irvine (guest lecture with Donald Hoffman).
+* *Consciousness: from philosophy to neuroscience*, Fall semester 2017, Institute of Neuroinformatics, Uni/ETH Zürich (guest lecture with Alex Gamma and Daniel Kiper).
+* *Languages of Thought. Introduction into Symbolizations of Mind*, Spring semesters 2015/16, ETH Zürich (together with Norman Sieroka).
+* *Philosophy of Chemistry*, Spring semesters 2015/16, ETH Zürich.
+* *Philosophy of the Natural Sciences*, Spring semester 2014, ETH Zürich (together with Michael Hampe and Norman Sieroka).
+* *Advanced Kinetics*, Spring semesters 2009 - 2012, ETH Zürich (teaching assistant to Martin Quack).
+* *Chemical Kinetics*, Fall semesters 2008 - 2012, ETH Zürich (teaching assistant to Martin Quack). 
+* *Thermodynamics*, Spring semester 2006, ETH Zürich (teaching assistant to Jürgen Stohner).
 
-Student Supervisions
-2016/17: Annina Haller, term paper, Master of Arts in History and Philosophy of Knowledge, topic: Emergence and Gestalt psychology.
-2015/16: Stefan Kaiser, term paper, Master of Arts in History and Philosophy of Knowledge, topic: First- and third-person perspectives in consciousness studies.
-2010/11: Gunther Wichmann, Bachelor thesis, Interdisciplinary Sciences, topic: Parity violation and wavepacket dynamics in H2S2-isotopomers.  
+**Student Supervisions
+======**
+* 2016/17: Annina Haller, term paper, Master of Arts in History and Philosophy of Knowledge, topic: Emergence and Gestalt psychology.
+* 2015/16: Stefan Kaiser, term paper, Master of Arts in History and Philosophy of Knowledge, topic: First- and third-person perspectives in consciousness studies.
+* 2010/11: Gunther Wichmann, Bachelor thesis, Interdisciplinary Sciences, topic: Parity violation and wavepacket dynamics in H2S2-isotopomers.  
 
 
 Workshops and Conferences
