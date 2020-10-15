@@ -52,17 +52,11 @@ Teaching Experiences
 * *Chemical Kinetics*, Fall semesters 2008 - 2012, ETH Zürich (teaching assistant to Martin Quack). 
 * *Thermodynamics*, Spring semester 2006, ETH Zürich (teaching assistant to Jürgen Stohner).
 
-**Student Supervisions
-======**
+Student Supervisions
+======
 * 2016/17: Annina Haller, term paper, Master of Arts in History and Philosophy of Knowledge, topic: Emergence and Gestalt psychology.
 * 2015/16: Stefan Kaiser, term paper, Master of Arts in History and Philosophy of Knowledge, topic: First- and third-person perspectives in consciousness studies.
 * 2010/11: Gunther Wichmann, Bachelor thesis, Interdisciplinary Sciences, topic: Parity violation and wavepacket dynamics in H2S2-isotopomers.  
-
-
-Workshops and Conferences
-======
-* ...
-
 
 Scholarships and Honors
 ======
@@ -70,6 +64,17 @@ Scholarships and Honors
 * ETH Medal 2013
 * Participation at the Manfred-Eigen-Nachwuchsgespräche 2008
 * Willi-Studer Price for the best diploma (Interdisciplinary Sciences) 2008
+
+<!-- 
+Workshops and Conferences
+======
+* ...
+Third-Party Funded Projects
+======
+* ...
+>
+
+
 
   
 <!-- Skills
