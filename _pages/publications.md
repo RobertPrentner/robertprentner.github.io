@@ -25,7 +25,7 @@ author_profile: true
 
 ## 2020
 
-* C. Prakash, C. Fields, D. D. Hoffman, **R. Prentner**, and M. Singh. [Fact, Fiction, and Fitness](https://doi.org/10.3390/e22050514), Entropy, 22: 514, 2020. 
+* C. Prakash, C. Fields, D. D. Hoffman, **R. Prentner**, and M. Singh. [Fact, Fiction, and Fitness](https://doi.org/10.3390/e22050514), *Entropy*, 22: 514. 
 
 ## 2019 
 
