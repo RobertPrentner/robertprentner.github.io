@@ -18,7 +18,7 @@ author_profile: true
 *	*The Conscious Agent Framework*, Modelling Consciousness workshop, Dorfgastein, Austria, **Mar 2019**.
 *	*Social Networks*, Faggin workshop on consciousness, Half Moon Bay, CA, **Feb 2019**.
 *	*Topologically Structured Phenomenal Spaces and the Image of Nature*, Progress and Visions in the Scientific Study of the Mind and Matter Relation, **Nov 2018** (online).
-*	*Mereotopologically Structured Phenomenal Spaces*, Workshop of the Society for Mind-Matter Reearch, Herrischried, Germany, **Jun 2018**.
+*	*Mereotopologically Structured Phenomenal Spaces*, Workshop of the Society for Mind-Matter Research, Herrischried, Germany, **Jun 2018**.
 *	*Interfaces, CA-networks and the CIP-framework*, Faggin workshop on consciousness, Half Moon Bay, CA, **Mar 2017**.
 *	*Puzzles for the Conscious Mind*, Institute for Neuroinformatics, University of Zürich, Switzerland, **Aug 2016**. 
 *	*Chemical Concepts for Mind-Matter Theories*, International Symposium for the Philosophy of Chemistry, Boca Raton, FL, **Aug 2016**. 
