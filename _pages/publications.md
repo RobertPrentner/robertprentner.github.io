@@ -44,10 +44,11 @@ author_profile: true
 
 * **R. Prentner**. [Consciousness: A Molecular Perspective](http://dx.doi.org/10.3390/philosophies2040026), *Philosophies*, 2(4): 26, 2017. 
 
+* **R. Prentner**. [Chemistry, context and the objects of thought](https://link.springer.com/article/10.1007/s10698-017-9273-8), *Foundations of Chemistry*, 19(1): 29-41, 2017.  
+
 * C. Fields, D. Hoffman, C. Prakash, and **R. Prentner**. [Eigenforms, interfaces and holographic encoding](http://constructivist.info/12/3/265), *Constructivist Foundations*, 12(3): 265–274, 2017. 
 
 * C. Fields, D. Hoffman, C. Prakash, and **R. Prentner**. [Authors’ Response: Boundaries, Encodings and Paradox: What Models Can Tell Us About Experience](http://constructivist.info/12/3/284), *Constructivist Foundations*, 12(3): 284-291, 2017. 
-* **R. Prentner**. [Chemistry, context and the objects of thought](https://link.springer.com/article/10.1007/s10698-017-9273-8), *Foundations of Chemistry*, 19(1): 29-41, 2017.  
 
 * **R. Prentner**. [Die Entstehung der Objekte. Überlegungen zu einer exakten Wissenschaft von Bewusstsein](https://www.research-collection.ethz.ch/handle/20.500.11850/186325), Diss. Nr.  24329, ETH Zürich, 2017. 
 
