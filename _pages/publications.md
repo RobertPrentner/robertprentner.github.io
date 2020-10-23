@@ -19,9 +19,9 @@ author_profile: true
 
 ## Preprints
 
-* **Robert Prentner**, [Percpetual Network] (https://arxiv.org/abs/2009.08101)
+* **Robert Prentner**, [Attracting Sets in Perceptual Networks] (https://arxiv.org/abs/2009.08101)
 * Shanna Dobson, and **Robert Prentner**, [Pluralist-Monism](https://arxiv.org/abs/2009.01691).
-* **Rober Prentner**, [PREDICTOR](https://arxiv.org/abs/2009.01668).
+* **Rober Prentner**, [A Predictive Strategy for the Iterated Prisoner's Dilemma](https://arxiv.org/abs/2009.01668).
 
 ## 2020
 
