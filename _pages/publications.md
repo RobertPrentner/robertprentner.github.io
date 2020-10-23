@@ -19,9 +19,9 @@ author_profile: true
 
 ## Preprints
 
-* **Robert Prentner**, [Percpetual Networks]
-* **Robert Prentner**, and Shanna Dobson, [Pluralist-Monism](https://arxiv.org/pdf/2009.10683.pdf).
-* **Rober Prentner**, [PREDICTOR](https://arxiv.org/pdf/2008.01036.pdf).
+* **Robert Prentner**, [Percpetual Network] (https://arxiv.org/abs/2009.08101)
+* Shanna Dobson, and **Robert Prentner**, [Pluralist-Monism](https://arxiv.org/abs/2009.01691).
+* **Rober Prentner**, [PREDICTOR](https://arxiv.org/abs/2009.01668).
 
 ## 2020
 
