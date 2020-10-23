@@ -41,7 +41,7 @@ Reviewer Activities
 ======
 * Angewandte Chemie, Applied Sciences, Communicative & Integrative Biology, Consciousness and Cognition, Constructivist Foundations, Entropy, Information, Journal of Consciousness Studies, Mind and Matter, OpenPhilosphy, Philosophies, Philosophy of Science, Proceedings of the Royal Society A. 
 
-Teaching Experiences
+Teaching Experience
 ======
 * *The Mind-Body Problem*, Winter quarter 2019, University of California, Irvine (guest lecture with Donald Hoffman).
 * *Consciousness: from philosophy to neuroscience*, Fall semester 2017, Institute of Neuroinformatics, Uni/ETH Zürich (guest lecture with Alex Gamma and Daniel Kiper).
