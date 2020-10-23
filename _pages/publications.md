@@ -49,6 +49,8 @@ author_profile: true
 * C. Fields, D. Hoffman, C. Prakash, and **R. Prentner**. [Authors’ Response: Boundaries, Encodings and Paradox: What Models Can Tell Us About Experience](http://constructivist.info/12/3/284), *Constructivist Foundations*, 12(3): 284-291, 2017. 
 * **R. Prentner**. [Chemistry, context and the objects of thought](https://link.springer.com/article/10.1007/s10698-017-9273-8), *Foundations of Chemistry*, 19(1): 29-41, 2017.  
 
+* **R. Prentner**. [Die Entstehung der Objekte. Überlegungen zu einer exakten Wissenschaft von Bewusstsein](https://www.research-collection.ethz.ch/handle/20.500.11850/186325), Diss. Nr.  24329, ETH Zürich, 2017. 
+
 ## 2016
 
 * S. Albert, Z. Chen, C. Fabri, P. Lerch, **R. Prentner**, and M. Quack. [A combined gigahertz and terahertz (FTIR) spectroscopic investigation of meta-D-phenol: observation of tunnelling switching](http://www.tandfonline.com/doi/abs/10.1080/00268976.2016.1226444), *Molecular Physics*, 114(19): 2751–2768, 2016.  
@@ -56,7 +58,7 @@ author_profile: true
 
 ## 2015
 
-* **R. Prentner**, M. Quack, J. Stohner, and M. Willeke. Wavepacket Dynamics of the Axially Chiral Molecule Cl-O-O-Cl under Coherent Radiative Excitation and Including Electroweak Parity Violation, Journal of Physical Chemistry A, 119(51): 12805–12822, 2015. http://pubs.acs.org/doi/full/10.1021/acs.jpca.5b08958?src=recsys 
+* **R. Prentner**, M. Quack, J. Stohner, and M. Willeke. [Wavepacket Dynamics of the Axially Chiral Molecule Cl-O-O-Cl under Coherent Radiative Excitation and Including Electroweak Parity Violation](http://pubs.acs.org/doi/full/10.1021/acs.jpca.5b08958?src=recsys ), *Journal of Physical Chemistry A*, 119(51): 12805–12822, 2015
 
 ## 2014 
 * **R. Prentner**. [A Framework for Critical Materialists](http://www.ingentaconnect.com/contentone/imp/mm/2014/00000012/00000001/art00005), *Mind and Matter*, 12(1): 93–118, 2014. 
@@ -64,15 +66,35 @@ author_profile: true
 
 ## 2013
 
-* S. Albert, Ph. Lerch, **R. Prentner**, and M. Quack, [Tunneling and tunneling switching dynamics in phenol (C6H5OH) from high resolution FTIR spectroscopy with Synchrotron radiation in THz range](http://onlinelibrary.wiley.com/doi/10.1002/anie.201205990/abstract), *Angewandte Chemie (International Ed.)*, 52(1): 364-367, 2013. 
+* S. Albert, Ph. Lerch, **R. Prentner**, and M. Quack, [Tunneling and tunneling switching dynamics in phenol (C6H5OH) from high resolution FTIR spectroscopy with Synchrotron radiation in THz range](http://onlinelibrary.wiley.com/doi/10.1002/anie.201205990/abstract), *Angewandte Chemie (International Ed.)*, 52(1): 364-367, 2013.
+* **R. Prentner**. [Tunneldynamik und Paritätsverletzung in chiralen und achiralen Molekülen](http://dx.doi.org/10.3929/ethz-a-009933866), Diss. Nr. 20935, ETH Zürich, 2013.  
 
 ## 2012
 
 * E. Miloglyadov, **R. Prentner**, M. Quack, and G. Seyfang. Inversion tunneling in normal and substituted anilines from infrared spectroscopy and quasiadiabatic channel reaction path Hamiltonian calculations, in: M. Lewerenz et al. (eds), Proc. of XVIIIth Symposium on Atomic, Cluster and Surface Physics, Innsbruck: University Press, pp. 234–237, 2012.
+* **R. Prentner**. [Der Panpsychismus und das Bewusstseinsproblem](http://dx.doi.org/10.3929/ethz-a-006995446), MA thesis, 2012. 
+
 
 ## 2011
 * **R. Prentner**, M. Quack, J. Stohner, and M. Willeke. *Faraday Dissucssions*, 150: 130-132, 2011.
 
+## Patents
 
-## Various 
-1. ... 
+* K.W.P. Aarts, M.P.M. Jansen, A.L.M. Jacobs, M.C. Mescher, A. Mathys, C. De Moraes, and **R. Prentner**. European patent no. 18175914.3 – 1110, 2018.
+
+## Various publications 
+* C. Fields, E. Dietrich, D. D. Hoffman, and **R. Prentner**. Editorial: Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition, *Frontiers in Psychology* (in press).
+* H. Atmanspacher, and **R. Prentner**. [Editorial: Digital Consciousness](http://www.mindmatter.de/resources/pdf/editorial18_1www.pdf), Mind and Matter 18(1), 2020.
+* Various authors, [Introduction to the 3rd Special Issue on Biological Mentality](http://cogsci.snu.ac.kr/jcs/index.php/issues/?uid=303&mod=document), in K. A. Augustyn (ed.), 3rd Special Issue on Biological Mentality, *J. Cognitive Science*, 2020. 
+
+* H. Atmanspacher, and **R. Prentner**. [Editorial: From a Physics Point of View](http://www.mindmatter.de/resources/pdf/editorial17_2www.pdf), *Mind and Matter*, 17(2): 125-127, 2019. 
+
+* H. Atmanspacher, and **R. Prentner**. [Editorial: Metaphysics Matters](http://www.mindmatter.de/resources/pdf/editorial16_2www.pdf), Mind and Matter, 16(2): 125-130, 2018.
+
+* **R. Prentner**. [Book Review: Metapsychology of the Creative Process: Continuous Novelty as the Ground for Creative Advance](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01463/full), *Frontiers of Psychology*, 8:1463, 2017 
+
+* **R. Prentner**, and A. Borbély. [Interview: Three Gaps Rather Than One](http://www.ingentaconnect.com/contentone/imp/mm/2016/00000014/ 00000002/art00002), *Mind and Matter*, 14(2): 111-117, 2016. 
+
+* **R. Prentner**. Book Review: Norman Sieroka. Philosophie der Physik – Eine Einführung. Bunsenmagazin 17(6): 242, 2015.
+
+
