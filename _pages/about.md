@@ -14,7 +14,7 @@ redirect_from:
 
 Our molecular nature, consciousness, and AI. 
 
-Robert receveid a doctorate in physical chemistry in 2013 and a doctorate in philosophy in 2017 from [ETH Zürich](https://www.ethz.ch/). His [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 4.
+Robert received a doctorate in physical chemistry in 2013 and a doctorate in philosophy in 2017 from [ETH Zürich](https://www.ethz.ch/). His [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 4.
 
 <!-- Email: linchen.dr [at] gmail [dot] com -->
 
