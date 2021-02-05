@@ -19,9 +19,9 @@ author_profile: true
 
 ## Preprints
 
-* **Robert Prentner**, [Attracting Sets in Perceptual Networks](https://arxiv.org/abs/2009.08101), v1 Sep 17, 2020.
-* **Rober Prentner**, [A Predictive Strategy for the Iterated Prisoner's Dilemma](https://arxiv.org/abs/2009.01668), v2 Sep 4, 2020.
-* Shanna Dobson, and **Robert Prentner**, [Pluralist-Monism. Derived Category Theory as the Grammar of n-Awareness](https://arxiv.org/abs/2009.01691), v1 Sep 2, 2020.
+* **Robert Prentner**. [Attracting Sets in Perceptual Networks](https://arxiv.org/abs/2009.08101), v1 Sep 17, 2020.
+* **Rober Prentner**. [A Predictive Strategy for the Iterated Prisoner's Dilemma](https://arxiv.org/abs/2009.01668), v2 Sep 4, 2020.
+* Shanna Dobson, and **Robert Prentner**. [Pluralist-Monism. Derived Category Theory as the Grammar of n-Awareness](https://arxiv.org/abs/2009.01691), v1 Sep 2, 2020.
 
 ## 2020
 
@@ -84,9 +84,14 @@ author_profile: true
 * K.W.P. Aarts, M.P.M. Jansen, A.L.M. Jacobs, M.C. Mescher, A. Mathys, C. De Moraes, and **R. Prentner**. European patent no. 18175914.3 – 1110, 2018.
 
 ## Various publications 
-* C. Fields, E. Dietrich, D. D. Hoffman, and **R. Prentner**. Editorial: Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition, *Frontiers in Psychology* (in press).
-* H. Atmanspacher, and **R. Prentner**. [Editorial: Digital Consciousness](http://www.mindmatter.de/resources/pdf/editorial18_1www.pdf), Mind and Matter 18(1), 2020.
-* Various authors, [Introduction to the 3rd Special Issue on Biological Mentality](http://cogsci.snu.ac.kr/jcs/index.php/issues/?uid=303&mod=document), in K. A. Augustyn (ed.), 3rd Special Issue on Biological Mentality, *J. Cognitive Science*, 2020. 
+
+* H. Atmanspacher, and **R. Prentner**. [Editorial: Contradiction, Contrast, Controversy] (https://www.mindmatter.de/resources/pdf/editorial18_2www.pdf), *Mind and Matter*, 18(2), 117-120, 2020.
+
+* C. Fields, E. Dietrich, D. D. Hoffman, and **R. Prentner**. [Editorial: Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition] (https://doi.org/10.3389/fpsyg.2020.606046), *Frontiers in Psychology*, 11:606046, 2020.
+
+* H. Atmanspacher, and **R. Prentner**. [Editorial: Digital Consciousness](http://www.mindmatter.de/resources/pdf/editorial18_1www.pdf), Mind and Matter, 18(1), 3-6, 2020.
+
+* K.A. Augustyn et al.. [Introduction to the 3rd Special Issue on Biological Mentality](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=33626&context=michigantech-p), in K. A. Augustyn (ed.), 3rd Special Issue on Biological Mentality, *J. Cognitive Science*, 3, 371,384, 2020. 
 
 * H. Atmanspacher, and **R. Prentner**. [Editorial: From a Physics Point of View](http://www.mindmatter.de/resources/pdf/editorial17_2www.pdf), *Mind and Matter*, 17(2): 125-127, 2019. 
 
