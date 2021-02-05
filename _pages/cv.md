@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Doctor of Science, ETH Zürich, 2017
-* Doctor of Science, ETH Zürich, 2013
-* M.A. History and Philosophy of Knowledge, ETH Zürich, 2012
-* M.S. Interdisciplinary Sciences, ETH Zürich 2008
+* Doctor of Science, ETH Zürich, 2017.
+* Doctor of Science, ETH Zürich, 2013.
+* M.A. History and Philosophy of Knowledge, ETH Zürich, 2012.
+* M.S. Interdisciplinary Sciences, ETH Zürich 2008.
 
 Professional Experience
 ======
