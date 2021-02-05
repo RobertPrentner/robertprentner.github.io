@@ -85,9 +85,9 @@ author_profile: true
 
 ## Various publications 
 
-* H. Atmanspacher, and **R. Prentner**. [Editorial: Contradiction, Contrast, Controversy] (https://www.mindmatter.de/resources/pdf/editorial18_2www.pdf), *Mind and Matter*, 18(2), 117-120, 2020.
+* H. Atmanspacher, and **R. Prentner**. [Editorial: Contradiction, Contrast, Controversy](https://www.mindmatter.de/resources/pdf/editorial18_2www.pdf), *Mind and Matter*, 18(2), 117-120, 2020.
 
-* C. Fields, E. Dietrich, D. D. Hoffman, and **R. Prentner**. [Editorial: Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition] (https://doi.org/10.3389/fpsyg.2020.606046), *Frontiers in Psychology*, 11:606046, 2020.
+* C. Fields, E. Dietrich, D. D. Hoffman, and **R. Prentner**. [Editorial: Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition](https://doi.org/10.3389/fpsyg.2020.606046), *Frontiers in Psychology*, 11:606046, 2020.
 
 * H. Atmanspacher, and **R. Prentner**. [Editorial: Digital Consciousness](http://www.mindmatter.de/resources/pdf/editorial18_1www.pdf), Mind and Matter, 18(1), 3-6, 2020.
 
