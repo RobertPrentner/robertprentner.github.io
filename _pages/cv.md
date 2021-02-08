@@ -36,7 +36,7 @@ Editorial Activities
 ======
 * Editorial Team Mind and Matter 2015- 
 * Guest Editor, Models of Consciousness, Entropy, 2019/20.
-* Guest Editor, Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition, Frontiers in Psychology, 2019/2020.
+<!-- * Guest Editor, Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition, Frontiers in Psychology, 2019/2020. --!>
 
 
 Reviewer Activities
@@ -60,6 +60,7 @@ Student Supervisions
 * 2015/16: Stefan Kaiser, term paper, Master of Arts in History and Philosophy of Knowledge, topic: First- and third-person perspectives in consciousness studies.
 * 2010/11: Gunther Wichmann, Bachelor thesis, Interdisciplinary Sciences, topic: Parity violation and wavepacket dynamics in H2S2-isotopomers.  
 
+<!--
 Scholarships and Honors
 ======
 * PostDoc.Mobility Fellowship 2018
