@@ -36,7 +36,7 @@ Editorial Activities
 ======
 * Editorial Team Mind and Matter 2015- 
 * Guest Editor, Models of Consciousness, Entropy, 2019/20.
-<!-- * Guest Editor, Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition, Frontiers in Psychology, 2019/2020. 
+<!-- * Guest Editor, Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition, Frontiers in Psychology, 2019/2020. -->
 
 
 Reviewer Activities
