@@ -14,7 +14,7 @@ redirect_from:
 
 Our molecular nature, consciousness, and AI. 
 
-Robert is an interdisciplinary scientist and philosopher working the fields of consciousness research and artificial intelligence. He received a doctorate in physical chemistry in 2013 and a doctorate in philosophy in 2017 from [ETH Zürich](https://www.ethz.ch/). His [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 4.
+Robert is an interdisciplinary scientist and philosopher working the fields of consciousness research and postbiological intelligence. He received a doctorate in physical chemistry in 2013 and a doctorate in philosophy in 2017 from [ETH Zürich](https://www.ethz.ch/). His [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 4.
 
 <!-- Email: linchen.dr [at] gmail [dot] com -->
 
