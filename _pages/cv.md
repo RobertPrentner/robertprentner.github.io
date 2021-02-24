@@ -41,19 +41,20 @@ Editorial Activities
 
 Reviewer Activities
 ======
-* Journal and book review for: Angewandte Chemie, Applied Sciences, Brain Sciences, Communicative & Integrative Biology, Computation, Consciousness and Cognition, Constructivist Foundations, Entropy, Humanities, Information, Journal of Consciousness Studies, Mind and Matter, Neuroscience of Consciousness, OpenPhilosphy, Palgrave Macmillan (book review), Philosophies, Philosophy of Science, Proceedings of the Royal Society A. 
+* Article and book review for: Angewandte Chemie, Applied Sciences, Brain Sciences, Communicative & Integrative Biology, Computation, Consciousness and Cognition, Constructivist Foundations, Entropy, Humanities, Information, Journal of Consciousness Studies, Mind and Matter, Neuroscience of Consciousness, OpenPhilosophy, Palgrave Macmillan, Philosophies, Philosophy of Science, Proceedings of the Royal Society A. 
 * Grant review for: Foundational Questions Institute (fqxi)
 
 Teaching Experience
 ======
-* *The Mind-Body Problem*, Winter quarter 2019, University of California, Irvine (guest lecture with Donald Hoffman).
-* *Consciousness: from philosophy to neuroscience*, Fall semester 2017, Institute of Neuroinformatics, Uni/ETH Zürich (guest lecture with Alex Gamma and Daniel Kiper).
-* *Languages of Thought. Introduction into Symbolizations of Mind*, Spring semesters 2015/16, ETH Zürich (together with Norman Sieroka).
-* *Philosophy of Chemistry*, Spring semesters 2015/16, ETH Zürich.
-* *Philosophy of the Natural Sciences*, Spring semester 2014, ETH Zürich (together with Michael Hampe and Norman Sieroka).
-* *Advanced Kinetics*, Spring semesters 2009 - 2012, ETH Zürich (teaching assistant to Martin Quack).
-* *Chemical Kinetics*, Fall semesters 2008 - 2012, ETH Zürich (teaching assistant to Martin Quack). 
-* *Thermodynamics*, Spring semester 2006, ETH Zürich (teaching assistant to Jürgen Stohner).
+* *Minds as Machines*, Spring term 2021, Florida Atlantic University, Boca Raton, FL (guest lecture with Elan Barenholtz, Susan Schneider, and William Hahn).
+* *The Mind-Body Problem*, Winter quarter 2019, University of California, Irvine, CA (guest lecture with Donald Hoffman).
+* *Consciousness: from philosophy to neuroscience*, Fall semester 2017, Institute of Neuroinformatics, Uni/ETH Zürich, Switzerland (guest lecture with Alex Gamma and Daniel Kiper).
+* *Languages of Thought. Introduction into Symbolizations of Mind*, Spring semesters 2015/16, ETH Zürich, Switzerland (together with Norman Sieroka).
+* *Philosophy of Chemistry*, Spring semesters 2015/16, ETH Zürich, Switzerland.
+* *Philosophy of the Natural Sciences*, Spring semester 2014, ETH Zürich, Switzerland (together with Michael Hampe and Norman Sieroka).
+* *Advanced Kinetics*, Spring semesters 2009 - 2012, ETH Zürich, Switzerland (teaching assistant to Martin Quack).
+* *Chemical Kinetics*, Fall semesters 2008 - 2012, ETH Zürich, Switzerland (teaching assistant to Martin Quack). 
+* *Thermodynamics*, Spring semester 2006, ETH Zürich, Switzerland (teaching assistant to Jürgen Stohner).
 
 Student Supervisions
 ======
