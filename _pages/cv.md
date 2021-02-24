@@ -18,7 +18,7 @@ Education
 
 Professional Experience
 ======
-* Since February 2021: Senior Fellow, Center for the Future Mind, Florida Atlantic University.
+* Since February 2021: Senior Research Fellow, Center for the Future Mind, Florida Atlantic University.
 * Since July 2020: Research Consultant (for University of California, Irvine, CA; Omniphysical LLC, Great Falls, VI; Association for Mathematical Consciousness Science, Munich) and scientific guest, Laboratory of Physical Chemistry, ETH Zürich.
 * July 2018 - June 2020: Postdoctoral research, Department of Cognitive Sciences, University of California, Irvine, with Professor Donald D. Hoffman.
 * October 2017 - June 2018: Postdoctoral research, Biocommunication, ETH Zürich, with Professor Consuelo M. De Moraes (joint industry project with Bühler AG, Uzwil).
@@ -41,7 +41,8 @@ Editorial Activities
 
 Reviewer Activities
 ======
-* Angewandte Chemie, Applied Sciences, Communicative & Integrative Biology, Consciousness and Cognition, Constructivist Foundations, Entropy, Humanities, Information, Journal of Consciousness Studies, Mind and Matter, OpenPhilosphy, Philosophies, Philosophy of Science, Proceedings of the Royal Society A. 
+* Journal and book review for: Angewandte Chemie, Applied Sciences, Brain Sciences, Communicative & Integrative Biology, Computation, Consciousness and Cognition, Constructivist Foundations, Entropy, Humanities, Information, Journal of Consciousness Studies, Mind and Matter, Neuroscience of Consciousness, OpenPhilosphy, Palgrave Macmillan (book review), Philosophies, Philosophy of Science, Proceedings of the Royal Society A. 
+* Grant review for: Foundational Questions Institute (fqxi)
 
 Teaching Experience
 ======
