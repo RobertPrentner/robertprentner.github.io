@@ -23,7 +23,7 @@ Professional Experience
 * July 2018 - June 2020: Postdoctoral research, Department of Cognitive Sciences, University of California, Irvine, with Professor Donald D. Hoffman.
 * October 2017 - June 2018: Postdoctoral research, Biocommunication, ETH Zürich, with Professor Consuelo M. De Moraes (joint industry project with Bühler AG, Uzwil).
 * February 2014 - June 2017: Associate lecturer, Chair of Philosophy, ETH Zürich, with Professor Michael Hampe.
-* September 2014 – December 2014: Visitor to the Centre for the Foundations of Science, University of Sydney, with Prof. Stephen Gaukroger.
+* September 2014 – December 2014: Visitor to the Centre for the Foundations of Science, University of Sydney, with Professor Stephen Gaukroger.
 * September 2013 - July 2017: Doctoral research at the project Chemistry & Consciousness, Chair of Philosophy, ETH Zürich, with Professor Michael Hampe.
 * April 2013 - August 2013: Researcher, Laboratory of Physical Chemistry, ETH Zürich, with Professor Martin Quack.
 * January 2013 - March 2013: Visiting Research Scholar, Center for the Explanation of Consciousness, Stanford University, with Professor Paul Skokowski.
@@ -35,7 +35,7 @@ Professional Experience
 Editorial Activities
 ======
 * Editorial Team Mind and Matter 2015- 
-* Guest Editor, Models of Consciousness, Entropy, 2019/20.
+* Guest Editor, Entropy ("Models of Consciousness), 2019/20.
 <!-- * Guest Editor, Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition, Frontiers in Psychology, 2019/2020. -->
 
 
