@@ -101,7 +101,7 @@ author_profile: true
 
 * **R. Prentner**. [Book Review: Metapsychology of the Creative Process: Continuous Novelty as the Ground for Creative Advance](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01463/full), *Frontiers of Psychology*, 8:1463, 2017 
 
-* **R. Prentner**, and A. Borbély. [Interview: Three Gaps Rather Than One](http://www.ingentaconnect.com/contentone/imp/mm/2016/00000014/ 00000002/art00002), *Mind and Matter*, 14(2): 111-117, 2016. 
+* **R. Prentner**, and A. Borbély. [Interview: Three Gaps Rather Than One](http://www.ingentaconnect.com/contentone/imp/mm/2016/00000014/00000002/art00002), *Mind and Matter*, 14(2): 111-117, 2016. 
 
 * **R. Prentner**. Book Review: Norman Sieroka. Philosophie der Physik – Eine Einführung. Bunsenmagazin 17(6): 242, 2015.
 
