@@ -82,7 +82,8 @@ author_profile: true
 
 ## Patents
 
-* K.W.P. Aarts, M.P.M. Jansen, A.L.M. Jacobs, M.C. Mescher, A. Mathys, C. De Moraes, and **R. Prentner**. European patent no. 18175914.3 – 1110, 2018.
+* K.W.P. Aarts, M.P.M. Jansen, A.L.M. Jacobs, M.C. Mescher, A. Mathys, C. De Moraes, and **R. Prentner**. International patent PCT/EP2019/064672, 2019.
+* K.W.P. Aarts, M.P.M. Jansen, A.L.M. Jacobs, M.C. Mescher, A. Mathys, C. De Moraes, and **R. Prentner**. European patent 18175914.3-1110, 2018.
 
 ## Various publications 
 
