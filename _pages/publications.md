@@ -24,7 +24,7 @@ author_profile: true
 * S., and **R. Prentner**. [Perfectoid Diamonds and n-Awareness. A Meta-Model of Subjective Experience](http://arxiv.org/abs/2102.07620), v1 Feb 12 2021.
 <!-- [Pluralist-Monism. Derived Category Theory as the Grammar of n-Awareness](https://arxiv.org/abs/2009.01691), v1 Sep 2, 2020. -->
 * C. M. Signorelli, J. Szczotka, and **R. Prentner**. [Explanatory profiles of models of consciousness - towards a systematic classification](https://doi.org/10.31234/osf.io/f5vdu), May 2021.
-* 
+
 ## 2020
 
 * C. Prakash, C. Fields, D. D. Hoffman, **R. Prentner**, and M. Singh. [Fact, Fiction, and Fitness](https://doi.org/10.3390/e22050514), *Entropy*, 22: 514, 2020. 
