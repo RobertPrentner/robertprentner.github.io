@@ -32,7 +32,7 @@ author_profile: true
 ## 2019 
 
 * **R. Prentner**, and C. Fields. [Using AI methods to evaluate a model for perception](https://doi.org/10.1515/opphil-2019-0034), *Open Philosophy*, 2: 503–524, 2019.  
-* **R. Prentner**. [Consciousness and Topologically Structured Phenomenal Spaces](doi:10.1016/j.concog.2019.02.002.), *Consciousness and Cognition*, 70: 25-38, 2019. [Download Postprint](10.31234/osf.io/at53n)
+* **R. Prentner**. [Consciousness and Topologically Structured Phenomenal Spaces](https://doi.org/10.1016/j.concog.2019.02.002), *Consciousness and Cognition*, 70: 25-38, 2019. [Download Postprint](10.31234/osf.io/at53n)
 
 ## 2018 
 
