@@ -11,13 +11,15 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
-* *Space, sensation, and interfaces*, Biological NMR meeting, ETH Zürich, Switzerland, **Oct 2020** (online)
-* *Space, time, and sensation*, Fourth Annual Workshop on Biological Mentality, Ann Arbor, MI, **Oct 2020** (online)
+* *Constructing Space*, Allen Center for Discovery, Tufts University, Boston, MA, **May 2021**.
+* *Philosophy, Consciousness, and Perfectoid Diamonds*, American Mathematical Society (AMS), Spring Western Sectional Meeting, **May 2021**.
+* *Space, sensation, and interfaces*, Biological NMR meeting, ETH Zürich, Switzerland, **Oct 2020**. 
+* *Space, time, and sensation*, Fourth Annual Workshop on Biological Mentality, Ann Arbor, MI, **Oct 2020**. 
 * *Experience and Nature*, Center for Theory & Research, Esalen, CA, **Dec 2019**.
-*	*Where is the mentality in biological mentality?* Third Annual Workshop on Biological Mentality, Ann Arbor, MI, **Nov 2019** (online).
+*	*Where is the mentality in biological mentality?* Third Annual Workshop on Biological Mentality, Ann Arbor, MI, **Nov 2019**.
 *	*The Conscious Agent Framework*, Modelling Consciousness workshop, Dorfgastein, Austria, **Mar 2019**.
 *	*Social Networks*, Faggin workshop on consciousness, Half Moon Bay, CA, **Feb 2019**.
-*	*Topologically Structured Phenomenal Spaces and the Image of Nature*, Progress and Visions in the Scientific Study of the Mind and Matter Relation, Hannover, Germany, **Nov 2018** (online).
+*	*Topologically Structured Phenomenal Spaces and the Image of Nature*, Progress and Visions in the Scientific Study of the Mind and Matter Relation, Hannover, Germany, **Nov 2018**.
 *	*Mereotopologically Structured Phenomenal Spaces*, Workshop of the Society for Mind-Matter Research, Herrischried, Germany, **Jun 2018**.
 *	*Interfaces, CA-networks and the CIP-framework*, Faggin workshop on consciousness, Half Moon Bay, CA, **Mar 2017**.
 *	*Puzzles for the Conscious Mind*, Institute for Neuroinformatics, University of Zürich, Switzerland, **Aug 2016**. 
