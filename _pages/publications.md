@@ -21,8 +21,8 @@ author_profile: true
 
 * **R. Prentner**. [Attracting Sets in Perceptual Networks](https://arxiv.org/abs/2009.08101), v1 Sep 17, 2020.
 * **R. Prentner**. [A Predictive Strategy for the Iterated Prisoner's Dilemma](https://arxiv.org/abs/2009.01668), v2 Sep 4, 2020.
-* S., and **R. Prentner**. [Perfectoid Diamonds and n-Awareness. A Meta-Model of Subjective Experience](http://arxiv.org/abs/2102.07620), v1 Feb 12 2021.
-* C. M. Signorelli, J. Szczotka, and **R. Prentner**. [Explanatory profiles of models of consciousness - towards a systematic classification](https://doi.org/10.31234/osf.io/f5vdu), Jun 1 2021.
+* S. Dobson, and **R. Prentner**. [Perfectoid Diamonds and n-Awareness. A Meta-Model of Subjective Experience](http://arxiv.org/abs/2102.07620), v1 Feb 12 2021.
+* C. M. Signorelli, J. Szczotka, and **R. Prentner**. [Explanatory profiles of models of consciousness - towards a systematic classification](https://doi.org/10.31234/osf.io/f5vdu), Jun 1, 2021.
 <!-- [Pluralist-Monism. Derived Category Theory as the Grammar of n-Awareness](https://arxiv.org/abs/2009.01691), v1 Sep 2, 2020. -->
 
 ## 2020
