@@ -33,9 +33,9 @@ author_profile: true
 
 * C. Prakash, C. Fields, D. D. Hoffman, **R. Prentner**, and M. Singh. [Fact, Fiction, and Fitness](https://doi.org/10.3390/e22050514), *Entropy*, 22: 514, 2020.
 * H. Atmanspacher, and **R. Prentner**. [Editorial: Contradiction, Contrast, Controversy](https://www.mindmatter.de/resources/pdf/editorial18_2www.pdf), *Mind and Matter*, 18(2), 117-120, 2020.
+* K.A. Augustyn et al.. [Introduction to the 3rd Special Issue on Biological Mentality](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=33626&context=michigantech-p), in K. A. Augustyn (ed.), 3rd Special Issue on Biological Mentality, *J. Cognitive Science*, 3, 371,384, 2020. 
 * C. Fields, E. Dietrich, D. D. Hoffman, and **R. Prentner**. [Editorial: Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition](https://doi.org/10.3389/fpsyg.2020.606046), *Frontiers in Psychology*, 11:606046, 2020. 
 * H. Atmanspacher, and **R. Prentner**. [Editorial: Digital Consciousness](http://www.mindmatter.de/resources/pdf/editorial18_1www.pdf), Mind and Matter, 18(1), 3-6, 2020.
-* K.A. Augustyn et al.. [Introduction to the 3rd Special Issue on Biological Mentality](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=33626&context=michigantech-p), in K. A. Augustyn (ed.), 3rd Special Issue on Biological Mentality, *J. Cognitive Science*, 3, 371,384, 2020. 
 
 ## 2019 
 
@@ -54,15 +54,10 @@ author_profile: true
 ## 2017
 
 * **R. Prentner**. [Consciousness: A Molecular Perspective](http://dx.doi.org/10.3390/philosophies2040026), *Philosophies*, 2(4): 26, 2017. 
-
 * **R. Prentner**. [Chemistry, context and the objects of thought](https://link.springer.com/article/10.1007/s10698-017-9273-8), *Foundations of Chemistry*, 19(1): 29-41, 2017.  
-
 * C. Fields, D. Hoffman, C. Prakash, and **R. Prentner**. [Eigenforms, interfaces and holographic encoding](http://constructivist.info/12/3/265), *Constructivist Foundations*, 12(3): 265–274, 2017. 
-
 * C. Fields, D. Hoffman, C. Prakash, and **R. Prentner**. [Authors’ Response: Boundaries, Encodings and Paradox: What Models Can Tell Us About Experience](http://constructivist.info/12/3/284), *Constructivist Foundations*, 12(3): 284-291, 2017. 
-
 * **R. Prentner**. [Die Entstehung der Objekte. Überlegungen zu einer exakten Wissenschaft von Bewusstsein](https://www.research-collection.ethz.ch/handle/20.500.11850/186325), Diss. Nr.  24329, ETH Zürich, 2017. 
-
 * **R. Prentner**. [Book Review: Metapsychology of the Creative Process: Continuous Novelty as the Ground for Creative Advance](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01463/full), *Frontiers of Psychology*, 8:1463, 2017 
 
 ## 2016
