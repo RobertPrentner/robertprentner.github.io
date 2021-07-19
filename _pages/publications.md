@@ -27,6 +27,7 @@ author_profile: true
 ## 2021
 
 * C. M. Signorelli, J. Szczotka, and **R. Prentner**. [Explanatory profiles of models of consciousness - towards a systematic classification](https://doi.org/10.31234/osf.io/f5vdu), *Neuroscience of Consciousness (accepted)*, 2021.
+* H. Atmanspacher, and **R. Prentner**. [Editorial: Mind, Quo Vadis?](https://www.mindmatter.de/resources/pdf/editorial19_1www.pdf), *Mind and Matter*, 19(1), 3-5, 2021.
 
 ## 2020
 
@@ -48,7 +49,7 @@ author_profile: true
 * C. Fabri, S. Albert, Z. Chen, **R. Prentner**, and M. Quack. [A molecular quantum switch based on tunneling in meta-D-phenol C6H4OD](https://pubs.rsc.org/en/content/articlelanding/2018/cp/c8cp00133b#!divAbstract), *Physical Chemistry and Chemical Physics*, 20(11): 7387-7394, 2018.
 * **R. Prentner**. [Epistemology, metaphysics and the preconditions of science](http://constructivist.info/13/3/354), *Constructivist Foundations*, 13(3): 254-255, 2018. 
 * **R. Prentner**. [Process Metaphysics of Consciousness](https://doi.org/10.1515/opphil-2018-0002), *Open Philosophy*, 1(1): 3-13, 2018. 
- 
+* H. Atmanspacher, and **R. Prentner**. [Editorial: Metaphysics Matters](http://www.mindmatter.de/resources/pdf/editorial16_2www.pdf), Mind and Matter, 16(2): 125-130, 2018. 
 
 ## 2017
 
@@ -62,14 +63,18 @@ author_profile: true
 
 * **R. Prentner**. [Die Entstehung der Objekte. Überlegungen zu einer exakten Wissenschaft von Bewusstsein](https://www.research-collection.ethz.ch/handle/20.500.11850/186325), Diss. Nr.  24329, ETH Zürich, 2017. 
 
+* **R. Prentner**. [Book Review: Metapsychology of the Creative Process: Continuous Novelty as the Ground for Creative Advance](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01463/full), *Frontiers of Psychology*, 8:1463, 2017 
+
 ## 2016
 
 * S. Albert, Z. Chen, C. Fabri, P. Lerch, **R. Prentner**, and M. Quack. [A combined gigahertz and terahertz (FTIR) spectroscopic investigation of meta-D-phenol: observation of tunnelling switching](http://www.tandfonline.com/doi/abs/10.1080/00268976.2016.1226444), *Molecular Physics*, 114(19): 2751–2768, 2016.  
 * **R. Prentner**. [Erweiterter Geist – Erweitertes Bewusstsein?] in: J. G. Michel, K. J. Boström and M. Pohl (Hg.) Ist der Geist im Kopf? Die These des erweiterten Geistes in Philosophie und Wissenschaft, mentis, Paderborn, 2016.
+* **R. Prentner**, and A. Borbély. [Interview: Three Gaps Rather Than One](http://www.ingentaconnect.com/contentone/imp/mm/2016/00000014/00000002/art00002), *Mind and Matter*, 14(2): 111-117, 2016. 
 
 ## 2015
 
 * **R. Prentner**, M. Quack, J. Stohner, and M. Willeke. [Wavepacket Dynamics of the Axially Chiral Molecule Cl-O-O-Cl under Coherent Radiative Excitation and Including Electroweak Parity Violation](http://pubs.acs.org/doi/full/10.1021/acs.jpca.5b08958?src=recsys ), *Journal of Physical Chemistry A*, 119(51): 12805–12822, 2015
+* **R. Prentner**. Book Review: Norman Sieroka. Philosophie der Physik – Eine Einführung. Bunsenmagazin 17(6): 242, 2015.
 
 ## 2014 
 * **R. Prentner**. [A Framework for Critical Materialists](http://www.ingentaconnect.com/contentone/imp/mm/2014/00000012/00000001/art00005), *Mind and Matter*, 12(1): 93–118, 2014. 
@@ -94,20 +99,6 @@ author_profile: true
 * K.W.P. Aarts, M.P.M. Jansen, A.L.M. Jacobs, M.C. Mescher,  **R. Prentner**, A. Mathys, and C. De Moraes. International patent PCT/EP2019/064672, 2019.
 * K.W.P. Aarts, M.P.M. Jansen, A.L.M. Jacobs, M.C. Mescher,  **R. Prentner**, A. Mathys, and C. De Moraes. European patent 18175914.3-1110, 2018.
 
-## Various publications 
 
-
-
-
-
-
-
-* H. Atmanspacher, and **R. Prentner**. [Editorial: Metaphysics Matters](http://www.mindmatter.de/resources/pdf/editorial16_2www.pdf), Mind and Matter, 16(2): 125-130, 2018.
-
-* **R. Prentner**. [Book Review: Metapsychology of the Creative Process: Continuous Novelty as the Ground for Creative Advance](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01463/full), *Frontiers of Psychology*, 8:1463, 2017 
-
-* **R. Prentner**, and A. Borbély. [Interview: Three Gaps Rather Than One](http://www.ingentaconnect.com/contentone/imp/mm/2016/00000014/00000002/art00002), *Mind and Matter*, 14(2): 111-117, 2016. 
-
-* **R. Prentner**. Book Review: Norman Sieroka. Philosophie der Physik – Eine Einführung. Bunsenmagazin 17(6): 242, 2015.
 
 
