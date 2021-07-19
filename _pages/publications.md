@@ -27,14 +27,19 @@ author_profile: true
 ## 2021
 
 * C. M. Signorelli, J. Szczotka, and **R. Prentner**. [Explanatory profiles of models of consciousness - towards a systematic classification](https://doi.org/10.31234/osf.io/f5vdu), *Neuroscience of Consciousness (accepted)*, 2021.
-* 
+
 ## 2020
 
-* C. Prakash, C. Fields, D. D. Hoffman, **R. Prentner**, and M. Singh. [Fact, Fiction, and Fitness](https://doi.org/10.3390/e22050514), *Entropy*, 22: 514, 2020. 
+* C. Prakash, C. Fields, D. D. Hoffman, **R. Prentner**, and M. Singh. [Fact, Fiction, and Fitness](https://doi.org/10.3390/e22050514), *Entropy*, 22: 514, 2020.
+* H. Atmanspacher, and **R. Prentner**. [Editorial: Contradiction, Contrast, Controversy](https://www.mindmatter.de/resources/pdf/editorial18_2www.pdf), *Mind and Matter*, 18(2), 117-120, 2020.
+* C. Fields, E. Dietrich, D. D. Hoffman, and **R. Prentner**. [Editorial: Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition](https://doi.org/10.3389/fpsyg.2020.606046), *Frontiers in Psychology*, 11:606046, 2020. 
+* H. Atmanspacher, and **R. Prentner**. [Editorial: Digital Consciousness](http://www.mindmatter.de/resources/pdf/editorial18_1www.pdf), Mind and Matter, 18(1), 3-6, 2020.
+* K.A. Augustyn et al.. [Introduction to the 3rd Special Issue on Biological Mentality](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=33626&context=michigantech-p), in K. A. Augustyn (ed.), 3rd Special Issue on Biological Mentality, *J. Cognitive Science*, 3, 371,384, 2020. 
 
 ## 2019 
 
 * **R. Prentner**, and C. Fields. [Using AI methods to evaluate a model for perception](https://doi.org/10.1515/opphil-2019-0034), *Open Philosophy*, 2: 503–524, 2019.  
+* H. Atmanspacher, and **R. Prentner**. [Editorial: From a Physics Point of View](http://www.mindmatter.de/resources/pdf/editorial17_2www.pdf), *Mind and Matter*, 17(2): 125-127, 2019. 
 * **R. Prentner**. [Consciousness and Topologically Structured Phenomenal Spaces](https://doi.org/10.1016/j.concog.2019.02.002), *Consciousness and Cognition*, 70: 25-38, 2019. [Download Postprint](10.31234/osf.io/at53n)
 
 ## 2018 
@@ -91,15 +96,11 @@ author_profile: true
 
 ## Various publications 
 
-* H. Atmanspacher, and **R. Prentner**. [Editorial: Contradiction, Contrast, Controversy](https://www.mindmatter.de/resources/pdf/editorial18_2www.pdf), *Mind and Matter*, 18(2), 117-120, 2020.
 
-* C. Fields, E. Dietrich, D. D. Hoffman, and **R. Prentner**. [Editorial: Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition](https://doi.org/10.3389/fpsyg.2020.606046), *Frontiers in Psychology*, 11:606046, 2020.
 
-* H. Atmanspacher, and **R. Prentner**. [Editorial: Digital Consciousness](http://www.mindmatter.de/resources/pdf/editorial18_1www.pdf), Mind and Matter, 18(1), 3-6, 2020.
 
-* K.A. Augustyn et al.. [Introduction to the 3rd Special Issue on Biological Mentality](https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=33626&context=michigantech-p), in K. A. Augustyn (ed.), 3rd Special Issue on Biological Mentality, *J. Cognitive Science*, 3, 371,384, 2020. 
 
-* H. Atmanspacher, and **R. Prentner**. [Editorial: From a Physics Point of View](http://www.mindmatter.de/resources/pdf/editorial17_2www.pdf), *Mind and Matter*, 17(2): 125-127, 2019. 
+
 
 * H. Atmanspacher, and **R. Prentner**. [Editorial: Metaphysics Matters](http://www.mindmatter.de/resources/pdf/editorial16_2www.pdf), Mind and Matter, 16(2): 125-130, 2018.
 
