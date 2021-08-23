@@ -27,7 +27,7 @@ author_profile: true
 ## 2021
 
 * **R. Prentner**. [Dr Goff, Tear Down This Wall! The Interface Theory of Perception and the Science of Consciousness](https://philarchive.org/rec/PREDGT), *Journal of Consciousness Studies*, forthcoming.
-* C. M. Signorelli, J. Szczotka, and **R. Prentner**. [Explanatory profiles of models of consciousness - towards a systematic classification](https://doi.org/10.31234/osf.io/f5vdu), *Neuroscience of Consciousness (accepted)*, 2021.
+* C. M. Signorelli, J. Szczotka, and **R. Prentner**. [Explanatory profiles of models of consciousness - towards a systematic classification](https://doi.org/10.31234/osf.io/f5vdu), *Neuroscience of Consciousness*, forthcoming.
 * H. Atmanspacher, and **R. Prentner**. [Editorial: Mind, Quo Vadis?](https://www.mindmatter.de/resources/pdf/editorial19_1www.pdf), *Mind and Matter*, 19(1), 3-5, 2021.
 
 ## 2020
