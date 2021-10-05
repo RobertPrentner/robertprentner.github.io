@@ -12,11 +12,11 @@ redirect_from:
 
 <!-- Dr. Dr. Robert Prentner -->
 
-Our molecular nature, consciousness, and AI. 
+Our molecular nature, consciousness, and mathematics. 
 
-Robert is an interdisciplinary scientist and philosopher interested in consciousness research and postbiological intelligence. He received a doctorate in physical chemistry in 2013 and a doctorate in philosophy in 2017 from [ETH Zürich](https://www.ethz.ch/). His [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 4.
+Robert is an interdisciplinary scientist and philosopher interested in consciousness research and the philosophy of science. He received a doctorate in physical chemistry in 2013 and a doctorate in philosophy in 2017 from [ETH Zürich](https://www.ethz.ch/). His [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 4.
 
-Currently, he is a senior research fellow at the [Center for the Future Mind](https://www.fau.edu/future-mind/) at Florida Atlantic University.
+Currently, he is a senior research fellow at the [Center for the Future Mind](https://www.fau.edu/future-mind/) at Florida Atlantic University and a postdoctoral fellow at the [Munich Center for Mathematical Philosophy](https://www.mcmp.philosophie.uni-muenchen.de/index.html) at LMU München.
 
 <!-- Email: linchen.dr [at] gmail [dot] com -->
 
