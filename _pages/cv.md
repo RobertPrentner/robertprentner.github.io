@@ -18,8 +18,9 @@ Education
 
 Professional Experience
 ======
+* Since September 2021: Postdoctoral Fellow, Munich Center for Mathematical Philosophy, LMU München, with Professor Christian List.
 * Since February 2021: Senior Research Fellow, Center for the Future Mind, Florida Atlantic University, with Professor Susan Schneider.
-* Since July 2020: Research Consultant (for University of California, Irvine, CA; Omniphysical LLC, Great Falls, VI; Association for Mathematical Consciousness Science, Munich; Florida Atlantic University, Boca Raton, FL) and scientific guest, Laboratory of Physical Chemistry, ETH Zürich.
+* July 2020 - August 2021: Research Consultant (for University of California, Irvine, CA; Omniphysical LLC, Great Falls, VI; Association for Mathematical Consciousness Science, Munich; Florida Atlantic University, Boca Raton, FL) and scientific guest, Laboratory of Physical Chemistry, ETH Zürich.
 * July 2018 - June 2020: Postdoctoral research, Department of Cognitive Sciences, University of California, Irvine, with Professor Donald D. Hoffman.
 * October 2017 - June 2018: Postdoctoral research, Biocommunication, ETH Zürich, with Professor Consuelo M. De Moraes (joint industry project with Bühler AG, Uzwil).
 * February 2014 - June 2017: Associate lecturer, Chair of Philosophy, ETH Zürich, with Professor Michael Hampe.
@@ -41,8 +42,8 @@ Editorial Activities
 
 Reviewer Activities
 ======
-* Article and book review for: Adaptive Behavior, Angewandte Chemie, Applied Sciences, BMC Psychology, Brain Sciences, Communicative & Integrative Biology, Computation, Consciousness and Cognition, Constructivist Foundations, Entropy, Humanities, Information, Journal of Consciousness Studies, Mind and Matter, Neuroscience of Consciousness, OpenPhilosophy, Palgrave Macmillan, Philosophies, Philosophy of Science, Proceedings of the Royal Society A. 
-* Grant review for: Foundational Questions Institute (fqxi)
+* Article and book review for: Adaptive Behavior, Angewandte Chemie, Applied Sciences, BMC Psychology, Brain Sciences, Communicative & Integrative Biology, Computation, Consciousness and Cognition, Constructivist Foundations, Dialogue: Canadian Philosophical Review, Entropy, Humanities, Information, Journal of Consciousness Studies, Mind and Matter, Neuroscience of Consciousness, OpenPhilosophy, Palgrave Macmillan, Philosophies, Philosophy of Science, Proceedings of the Royal Society A. 
+* Grant reviewer for: Foundational Questions Institute (fqxi)
 
 Teaching Experience
 ======
