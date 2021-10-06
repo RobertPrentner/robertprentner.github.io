@@ -47,6 +47,8 @@ Reviewer Activities
 
 Teaching Experience
 ======
+* *Advanced Formal Methods in the Philosophy of Cognitive Science and Consciousness Studies*, LMU München, Germany.
+* *Classical Readings in Philosophy in the Light of Mathematics*, LMU München, Germany.
 * *Minds as Machines*, Spring term 2021, Florida Atlantic University, Boca Raton, FL (guest lecture with Elan Barenholtz, Susan Schneider, and William Hahn).
 * *The Mind-Body Problem*, Winter quarter 2019, University of California, Irvine, CA (guest lecture with Donald Hoffman).
 * *Consciousness: from philosophy to neuroscience*, Fall semester 2017, Institute of Neuroinformatics, Uni/ETH Zürich, Switzerland (guest lecture with Alex Gamma and Daniel Kiper).
