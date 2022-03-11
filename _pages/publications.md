@@ -24,6 +24,12 @@ author_profile: true
 * S. Dobson, and **R. Prentner**. [Perfectoid Diamonds and n-Awareness. A Meta-Model of Subjective Experience](http://arxiv.org/abs/2102.07620), v1 Feb 12 2021.
 <!-- [Pluralist-Monism. Derived Category Theory as the Grammar of n-Awareness](https://arxiv.org/abs/2009.01691), v1 Sep 2, 2020. -->
 
+## 2022
+
+* H. Atmanspacher, and **R. Prentner**. [Editorial: Twenty Years of Mind and Matter](https://www.mindmatter.de/resources/pdf/editorial20_1www.pdf), *Mind and Matter*, 20(1), 5-16, 2021.
+* H. Atmanspacher, and **R. Prentner**. [Desiderata for a Viable Account of Psychophysical Correlations](https://www.mindmatter.de/resources/pdf/atmprewww.pdf), *Mind and Matter*, 20(1), 63-86, 2021.
+
+
 ## 2021
 
 * **R. Prentner**. [Dr Goff, Tear Down This Wall! The Interface Theory of Perception and the Science of Consciousness](https://philarchive.org/rec/PREDGT), *Journal of Consciousness Studies*, forthcoming.
