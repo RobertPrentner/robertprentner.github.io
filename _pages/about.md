@@ -12,7 +12,7 @@ redirect_from:
 
 <!-- Dr. Dr. Robert Prentner -->
 
-Our quantum nature, consciousness, and mathematics. 
+Our quantum nature, consciousness, and AI. 
 
 Robert is an interdisciplinary scientist and philosopher interested in consciousness studies and the history and philosophy of science. He received a doctorate in physical chemistry in 2013 and a doctorate in philosophy in 2017 from [ETH Zürich](https://www.ethz.ch/). His [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 4.
 
