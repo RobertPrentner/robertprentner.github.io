@@ -11,6 +11,10 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
+* *Mathematized Phenomenology*, summer school on mathematical philosophy for female students, LMU München, **August 2022**.
+* *Dual Aspects for the Neural Correlates of Consciousness*,The Science of Consciousness,Tucson, AZ, **April 2022**.
+* *The Deep Structure of Intentional Consciousness*, Consciousness Studies Workshop, LMU München, **February 2022**.
+* *The World Soul and Mathematical Consciousness Science*, 5th annual workshop on “Biological Mentality”, Ann Arbor, MI, **November 2021**.
 * *Constructing Space*, Allen Center for Discovery, Tufts University, Boston, MA, **May 2021**.
 * *Philosophy, Consciousness, and Perfectoid Diamonds*, American Mathematical Society (AMS), Spring Western Sectional Meeting, **May 2021**.
 * *Space, sensation, and interfaces*, Biological NMR meeting, ETH Zürich, Switzerland, **Oct 2020**. 
