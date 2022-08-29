@@ -28,7 +28,7 @@ author_profile: true
 
 * C.M. Signorelli, I. Cea, and **R. Prentner**. [We need to explain subjectivity, but its explanation may not be mechanistic](https://psyarxiv.com/e6kdg), submitted.
 * D.D. Hoffman, and **R. Prentner**. [Schrödinger and the conscious universe](https://iai.tv/articles/schroedinger-and-the-conscious-universe-auid-2192?_auid=2020) , *iai tv*, 25th July.
-* ** R. Prentner**, and S. Dobson. [Artistic Mediation in Mathematized Phenomenology](https://philarchive.org/archive/PREAMI-2), submitted.
+* **R. Prentner**, and S. Dobson. [Artistic Mediation in Mathematized Phenomenology](https://philarchive.org/archive/PREAMI-2), submitted.
 * H. Atmanspacher, and **R. Prentner**. [Editorial: Twenty Years of Mind and Matter](https://www.mindmatter.de/resources/pdf/editorial20_1www.pdf), *Mind and Matter*, 20(1), 5-16, 2021.
 * H. Atmanspacher, and **R. Prentner**. [Desiderata for a Viable Account of Psychophysical Correlations](https://www.mindmatter.de/resources/pdf/atmprewww.pdf), *Mind and Matter*, 20(1), 63-86, 2021.
 
