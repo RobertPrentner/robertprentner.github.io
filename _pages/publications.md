@@ -20,6 +20,7 @@ author_profile: true
 ## Preprints 
 
 * **R. Prentner**. [Applying category theory to the study of Consciousness?](https://psyarxiv.com/3vhg9/), v2 Dec 28, 2022.
+* **R. Prentner**. [Bewusstsein und Beziehung](https://philpapers.org/rec/PREBUB), v1 Nov 3, 2022.
 * **R. Prentner**. [Attracting Sets in Perceptual Networks](https://arxiv.org/abs/2009.08101), v1 Sep 17, 2020.
 * **R. Prentner**. [A Predictive Strategy for the Iterated Prisoner's Dilemma](https://arxiv.org/abs/2009.01668), v2 Sep 4, 2020.
 * S. Dobson, and **R. Prentner**. [Perfectoid Diamonds and n-Awareness. A Meta-Model of Subjective Experience](http://arxiv.org/abs/2102.07620), v1 Feb 12 2021.
