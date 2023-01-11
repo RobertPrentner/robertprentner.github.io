@@ -17,7 +17,7 @@ author_profile: true
 
 <!-- \* denotes equal contribution. -->
 
-## Preprints (not under review)
+## Preprints 
 
 * **R. Prentner**. [Applying category theory to the study of Consciousness?](https://psyarxiv.com/3vhg9/), v2 Dec 28, 2022.
 * **R. Prentner**. [Attracting Sets in Perceptual Networks](https://arxiv.org/abs/2009.08101), v1 Sep 17, 2020.
