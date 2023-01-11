@@ -17,17 +17,24 @@ author_profile: true
 
 <!-- \* denotes equal contribution. -->
 
-## Preprints
+## Preprints 
+(not submitted)
 
+* **R. Prentner**. [Applying category theory to the study of Consciousness?](https://psyarxiv.com/3vhg9/), v2 Dec 28, 2022.
 * **R. Prentner**. [Attracting Sets in Perceptual Networks](https://arxiv.org/abs/2009.08101), v1 Sep 17, 2020.
 * **R. Prentner**. [A Predictive Strategy for the Iterated Prisoner's Dilemma](https://arxiv.org/abs/2009.01668), v2 Sep 4, 2020.
 * S. Dobson, and **R. Prentner**. [Perfectoid Diamonds and n-Awareness. A Meta-Model of Subjective Experience](http://arxiv.org/abs/2102.07620), v1 Feb 12 2021.
 <!-- [Pluralist-Monism. Derived Category Theory as the Grammar of n-Awareness](https://arxiv.org/abs/2009.01691), v1 Sep 2, 2020. -->
 
+## 2023
+
+* L. Albantakis, **R. Prentner**, and Ian T. Durham [Measuring the integrated information of a quantum mechanism](https://doi.org/10.48550/arXiv.2301.02244), submitted.
+* D.D. Hoffman, C. Prakash, and **R. Prentner**. [Fusions of Consciousness](https://doi.org/10.3390/e25010129), *Entropy*, 25(1), 129, 2023.
+
 ## 2022
 
 * C.M. Signorelli, I. Cea, and **R. Prentner**. [We need to explain subjectivity, but its explanation may not be mechanistic](https://psyarxiv.com/e6kdg), submitted.
-* D.D. Hoffman, and **R. Prentner**. [Schrödinger and the conscious universe](https://iai.tv/articles/schroedinger-and-the-conscious-universe-auid-2192?_auid=2020) , *iai tv*, 25th July.
+* **R. Prentner**, and D.D. Hoffman. [Schrödinger and the conscious universe](https://iai.tv/articles/schroedinger-and-the-conscious-universe-auid-2192?_auid=2020) , *iai tv*, 25th July 2022.
 * **R. Prentner**, and S. Dobson. [Artistic Mediation in Mathematized Phenomenology](https://philarchive.org/archive/PREAMI-2), *Women in MathArt – Research, Creativity, and Teaching*, accepted.
 * H. Atmanspacher, and **R. Prentner**. [Editorial: Twenty Years of Mind and Matter](https://www.mindmatter.de/resources/pdf/editorial20_1www.pdf), *Mind and Matter*, 20(1), 5-16, 2022.
 * H. Atmanspacher, and **R. Prentner**. [Desiderata for a Viable Account of Psychophysical Correlations](https://www.mindmatter.de/resources/pdf/atmprewww.pdf), *Mind and Matter*, 20(1), 63-86, 2022.
