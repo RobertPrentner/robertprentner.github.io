@@ -34,6 +34,7 @@ author_profile: true
 ## 2022
 
 * C.M. Signorelli, I. Cea, and **R. Prentner**. [We need to explain subjectivity, but its explanation may not be mechanistic](https://psyarxiv.com/e6kdg), submitted.
+* **R. Prentner**. [Book Review: Dual Aspect Monism and the Deep Structure of Meaning](https://doi.org/10.53765/20512201.29.11.232), *Journal of Consciousness Studies*, 29(11-12),2022.
 * **R. Prentner**, and D.D. Hoffman. [Schrödinger and the conscious universe](https://iai.tv/articles/schroedinger-and-the-conscious-universe-auid-2192?_auid=2020) , *iai tv*, 25th July 2022.
 * **R. Prentner**, and S. Dobson. [Artistic Mediation in Mathematized Phenomenology](https://philarchive.org/archive/PREAMI-2), *Women in MathArt – Research, Creativity, and Teaching*, accepted.
 * H. Atmanspacher, and **R. Prentner**. [Editorial: Twenty Years of Mind and Matter](https://www.mindmatter.de/resources/pdf/editorial20_1www.pdf), *Mind and Matter*, 20(1), 5-16, 2022.
