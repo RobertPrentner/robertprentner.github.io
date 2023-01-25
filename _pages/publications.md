@@ -81,7 +81,7 @@ author_profile: true
 ## 2016
 
 * S. Albert, Z. Chen, C. Fabri, P. Lerch, **R. Prentner**, and M. Quack. [A combined gigahertz and terahertz (FTIR) spectroscopic investigation of meta-D-phenol: observation of tunnelling switching](http://www.tandfonline.com/doi/abs/10.1080/00268976.2016.1226444), *Molecular Physics*, 114(19): 2751–2768, 2016.  
-* **R. Prentner**. [Erweiterter Geist – Erweitertes Bewusstsein?] in: J. G. Michel, K. J. Boström and M. Pohl (Hg.) Ist der Geist im Kopf? Die These des erweiterten Geistes in Philosophie und Wissenschaft, mentis, Paderborn, 2016.
+* **R. Prentner**. [Erweiterter Geist – Erweitertes Bewusstsein?](https://doi.org/10.30965/9783957430397_007) in: J. G. Michel, K. J. Boström and M. Pohl (Hg.) Ist der Geist im Kopf? Die These des erweiterten Geistes in Philosophie und Wissenschaft, mentis, Paderborn, 2016.
 * **R. Prentner**, and A. Borbély. [Interview: Three Gaps Rather Than One](http://www.ingentaconnect.com/contentone/imp/mm/2016/00000014/00000002/art00002), *Mind and Matter*, 14(2): 111-117, 2016. 
 
 ## 2015
