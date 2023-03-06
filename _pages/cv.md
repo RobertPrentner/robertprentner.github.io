@@ -42,7 +42,7 @@ Editorial Activities
 
 Reviewer Activities
 ======
-* Article and book review for: Adaptive Behavior, Angewandte Chemie, Applied Sciences, BMC Psychology, Brain Sciences, Communicative & Integrative Biology, Computation, Consciousness and Cognition, Constructivist Foundations, Dialogue: Canadian Philosophical Review, Entropy, Humanities, Information, Journal of Consciousness Studies, Mind and Matter, Neuroscience of Consciousness, OpenPhilosophy, Palgrave Macmillan, Philosophies, Philosophy of Science, Proceedings of the Royal Society A. 
+* Article and book review for: Adaptive Behavior, Angewandte Chemie, Applied Sciences, BMC Psychology, Brain Sciences, Communicative & Integrative Biology, Computation, Consciousness and Cognition, Constructivist Foundations, Dialogue: Canadian Philosophical Review, Entropy, Humanities, IJERPH, Information, Journal of Consciousness Studies, Mind and Matter, Neuroscience of Consciousness, OpenPhilosophy, Palgrave Macmillan, Philosophies, Philosophy of Science, Proceedings of the Royal Society A, Social Science Information.
 * Grant reviewer for: Foundational Questions Institute (fqxi)
 
 Teaching Experience
