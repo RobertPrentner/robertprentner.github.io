@@ -28,12 +28,14 @@ author_profile: true
 
 ## 2023
 
-* L. Albantakis, **R. Prentner**, and Ian T. Durham [Measuring the integrated information of a quantum mechanism](https://doi.org/10.48550/arXiv.2301.02244), submitted.
-* D.D. Hoffman, C. Prakash, and **R. Prentner**. [Fusions of Consciousness](https://doi.org/10.3390/e25010129), *Entropy*, 25(1), 129, 2023.
+* H. Atmanspacher, and **R. Prentner**, [Editorial: Exceptional Experiences](https://www.mindmatter.de/resources/pdf/editorial21_1www.pdf), *Mind and Matter*, 21(1), 3-7.
+* L. Albantakis, **R. Prentner**, and Ian T. Durham [Measuring the integrated information of a quantum mechanism](https://doi.org/10.3390/e25030449), *Entropy*, 25(3), 449.
+* D.D. Hoffman, C. Prakash, and **R. Prentner**. [Fusions of Consciousness](https://doi.org/10.3390/e25010129), *Entropy*, 25(1), 129.
 
 ## 2022
 
 * C.M. Signorelli, I. Cea, and **R. Prentner**. [We need to explain subjectivity, but its explanation may not be mechanistic](https://psyarxiv.com/e6kdg), submitted.
+* H. Atmanspacher, and **R. Prentner**, [Editorial: Self, Time, and Quantum](https://www.mindmatter.de/resources/pdf/editorial20_2www.pdf), *Mind and Matter*, 20(2), 173-176.
 * **R. Prentner**. [Book Review: Dual Aspect Monism and the Deep Structure of Meaning](https://doi.org/10.53765/20512201.29.11.232), *Journal of Consciousness Studies*, 29(11-12),2022.
 * **R. Prentner**, and D.D. Hoffman. [Schrödinger and the conscious universe](https://iai.tv/articles/schroedinger-and-the-conscious-universe-auid-2192?_auid=2020) , *iai tv*, 25th July 2022.
 * **R. Prentner**, and S. Dobson. [Artistic Mediation in Mathematized Phenomenology](https://philarchive.org/archive/PREAMI-2), *Women in MathArt – Research, Creativity, and Teaching*, accepted.
