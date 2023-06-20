@@ -13,7 +13,7 @@ author_profile: true
 
 * *A Process Model of Phenomenology*, Physicalism, Agency, and Consciousness, LMU Munich, **June 2023**.
 * *Categorical Phenomenology*, Research Seminar on Decision and Action Theory, LMU Munich, **May 2023**.
-*	*Applied category theory for studying the first-person perspective*, Category Theory for Consciousness Science, The University of Oxford, **April 2023**.
+*	*Applied category theory for the study of the first-person perspective*, Category Theory for Consciousness Science, The University of Oxford, **April 2023**.
 * *Mathematized Phenomenology*, Summer school on mathematical philosophy for female students, LMU München, **August 2022**.
 * *Mathematized Phenomenology and the Science of Consciousness*, Research Seminar in Decision and Action Theory, LMU Munich, **May 2022**.
 * *Dual Aspects for the Neural Correlates of Consciousness*, The Science of Consciousness, Tucson, AZ, **April 2022**.
