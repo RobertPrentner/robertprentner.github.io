@@ -10,7 +10,9 @@ author_profile: true
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %} -->
-
+* *Meaning and Consciousness in Process Idealism*, 7th Workshop on Biological Mentality, Ann Arbor, MI, **October 2023**.
+* *Mathematizing Phenomenology within a Process Framework*, Models of Consciousness, University of Oxford, **September 2023**.
+* *Phenomena of the Infinite Substance*, 13th International Whitehead Congress, Munich School of Philosophy, **July 2023**.
 * *A Process Model of Phenomenology*, Physicalism, Agency, and Consciousness, LMU Munich, **June 2023**.
 * *Categorical Phenomenology*, Research Seminar on Decision and Action Theory, LMU Munich, **May 2023**.
 *	*Applied category theory for the study of the first-person perspective*, Category Theory for Consciousness Science, The University of Oxford, **April 2023**.
