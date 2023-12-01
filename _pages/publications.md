@@ -28,8 +28,9 @@ author_profile: true
 
 ## 2023
 
+* L. Albantakis, **R. Prentner**, and Ian T. Durham [Reply to Rourk, C.](https://doi.org/10.3390/e25101442), *Entropy*, 25(10), 1442.
 * H. Atmanspacher, and **R. Prentner**, [Editorial: Exceptional Experiences](https://www.mindmatter.de/resources/pdf/editorial21_1www.pdf), *Mind and Matter*, 21(1), 3-7.
-* L. Albantakis, **R. Prentner**, and Ian T. Durham [Measuring the integrated information of a quantum mechanism](https://doi.org/10.3390/e25030449), *Entropy*, 25(3), 449.
+* L. Albantakis, **R. Prentner**, and Ian T. Durham [Computinh the integrated information of a quantum mechanism](https://doi.org/10.3390/e25030449), *Entropy*, 25(3), 449.
 * D.D. Hoffman, C. Prakash, and **R. Prentner**. [Fusions of Consciousness](https://doi.org/10.3390/e25010129), *Entropy*, 25(1), 129.
 
 ## 2022
