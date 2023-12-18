@@ -18,9 +18,10 @@ Education
 
 Professional Experience
 ======
-* Since September 2021: Postdoctoral Fellow, Munich Center for Mathematical Philosophy, LMU München, with Professor Christian List.
-* Since February 2021: Senior Research Fellow, Center for the Future Mind, Florida Atlantic University, with Professor Susan Schneider.
-* July 2020 - August 2021: Research Consultant (for University of California, Irvine, CA; Omniphysical LLC, Great Falls, VI; Association for Mathematical Consciousness Science, Munich; Florida Atlantic University, Boca Raton, FL) and scientific guest, Laboratory of Physical Chemistry, ETH Zürich.
+* March 2024: Assistant Professor, Institute of Humanities, ShanghaiTech University.
+* September 2021 - February 2024: Postdoctoral Fellow, Munich Center for Mathematical Philosophy, LMU München, with Professor Christian List.
+* February 2021 - January 2023: Senior Research Fellow, Center for the Future Mind, Florida Atlantic University, with Professor Susan Schneider.
+* July 2020 - August 2021: Research Consultant (for the University of California, Irvine, CA; Omniphysical LLC, Great Falls, VI; Association for Mathematical Consciousness Science, Munich; Florida Atlantic University, Boca Raton, FL) and scientific guest, Laboratory of Physical Chemistry, ETH Zürich.
 * July 2018 - June 2020: Assistant Specialist, Department of Cognitive Sciences, University of California, Irvine, with Professor Donald D. Hoffman.
 * October 2017 - June 2018: Senior Assistant, Biocommunication, ETH Zürich, with Professor Consuelo M. De Moraes (joint industry project with Bühler AG, Uzwil).
 * February 2014 - June 2017: Associate lecturer, Chair of Philosophy, ETH Zürich, with Professor Michael Hampe.
@@ -29,25 +30,28 @@ Professional Experience
 * April 2013 - August 2013: Researcher, Laboratory of Physical Chemistry, ETH Zürich, with Professor Martin Quack.
 * January 2013 - March 2013: Visiting Research Scholar, Center for the Explanation of Consciousness, Stanford University, with Professor Paul Skokowski.
 * 2011 - 2012: Doctoral research at the project Spectroscopy, Quantum Dynamics and Electroweak Parity Violation in Chiral Molecules, funded by the European Research Council (ERC), Laboratory of Physical Chemistry, ETH Zürich, with Professor Martin Quack.
-* 2008 - 2011: Doctoral researcher at the project Infrared Photochemistry and Molecular Chirality, funded by the Schweizerischer Nationalfonds (SNF), Laboratory of Physical Chemistry, ETH Zürich, with Professor Martin Quack.
+* 2009 - 2011: Doctoral researcher at the project Infrared Photochemistry and Molecular Chirality, funded by the Schweizerischer Nationalfonds (SNF), Laboratory of Physical Chemistry, ETH Zürich, with Professor Martin Quack.
 * 2008 - 2012: Teaching assistant, Laboratory of Physical Chemistry, ETH Zürich.
 
 
 Editorial Activities
 ======
-* Editorial Team Mind and Matter 2015- 
-* Guest Editor, Entropy ("Models of Consciousness), 2019/20.
-<!-- * Guest Editor, Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition, Frontiers in Psychology, 2019/2020. -->
+* Editorial Team Mind and Matter 2015 - 
+* Guest Editor, Models of Consciousness, Entropy, 2019/20.
+* Guest Editor, Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition, Frontiers in Psychology, 2019/2020. 
 
 
 Reviewer Activities
 ======
-* Article and book review for: Adaptive Behavior, Angewandte Chemie, Applied Sciences, BMC Psychology, Brain Sciences, Communicative & Integrative Biology, Computation, Consciousness and Cognition, Constructivist Foundations, Dialogue: Canadian Philosophical Review, Entropy, Humanities, IJERPH, Information, Journal of Consciousness Studies, Mind and Matter, Neuroscience of Consciousness, OpenPhilosophy, Palgrave Macmillan, Philosophies, Philosophy of Science, Proceedings of the Royal Society A, Social Science Information.
-* Grant reviewer for: Foundational Questions Institute (fqxi)
+* Article and book review for: Adaptive Behavior, Angewandte Chemie, Applied Sciences, BMC Biology, Brain Science, Communicative & Integrative Biology, Computation, Consciousness and Cognition, Constructivist Foundations, Dialogue: Canadian Philosophical Review, Entropy, Frontiers in Neuroscience, Frontiers in Psychology, Humanities, Information, Journal of Consciousness Studies, Journal of Cognitive Science, Mind and Matter, Neuroscience of Consciousness, OBM Neurobiology, Open Philosophy, Palgrave Macmillan (book proposals), Philosophies, Philosophical Problems in Science, Philosophy of Science, Phenomenology and the Cognitive Sciences, Proceedings of The Royal Society A, Synthese. 
+* Grant reviewer for: Foundational Questions Institute (FQxI)
 
 Teaching Experience
 ======
 * *Advanced Formal Methods in the Philosophy of Cognitive Science and Consciousness Studies*, LMU München, Germany.
+* *Schopenhauer: The World as Will and Representation*, LMU München, Germany.
+* *Introduction to Process Philosophy*, LMU München, Germany.
+* *Modern Consciousness Studies*, LMU München, Germany.
 * *Classical Readings in Philosophy in the Light of Mathematics*, LMU München, Germany.
 * *Minds as Machines*, Spring term 2021, Florida Atlantic University, Boca Raton, FL (guest lecture with Elan Barenholtz, Susan Schneider, and William Hahn).
 * *The Mind-Body Problem*, Winter quarter 2019, University of California, Irvine, CA (guest lecture with Donald Hoffman).
@@ -61,6 +65,9 @@ Teaching Experience
 
 Student Supervisions
 ======
+* 2023/24: Jongwoo Park, MA thesis, Logic and Philosophy of Science, MCMP, LMU München, topic: Mereology and consciousness studies.
+* 2023: Jacob Schwaiger, BA thesis, Philosophy, LMU München, topic: Unificationist Explanations in the science of consciousness.
+* 2022: Luca Nesciobelli, BA thesis, Philosophy, LMU München, topic: Metaphysics and the philosophy of time.
 * 2016/17: Annina Haller, term paper, Master of Arts in History and Philosophy of Knowledge, topic: Emergence and Gestalt psychology.
 * 2015/16: Stefan Kaiser, term paper, Master of Arts in History and Philosophy of Knowledge, topic: First- and third-person perspectives in consciousness studies.
 * 2010/11: Gunther Wichmann, Bachelor thesis, Interdisciplinary Sciences, topic: Parity violation and wavepacket dynamics in H2S2-isotopomers.  
