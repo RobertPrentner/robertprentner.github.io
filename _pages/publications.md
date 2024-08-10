@@ -26,11 +26,19 @@ author_profile: true
 * **R. Prentner**. [A Predictive Strategy for the Iterated Prisoner's Dilemma](https://arxiv.org/abs/2009.01668), v2 Sep 4, 2020.
 <!-- [Pluralist-Monism. Derived Category Theory as the Grammar of n-Awareness](https://arxiv.org/abs/2009.01691), v1 Sep 2, 2020. -->
 
+## 2024
+
+* **R. Prentner**. [Category theory in consciousness science: going beyond the correlational project](https://doi.org/10.1007/s11229-024-04718-5), *Synthese*, 204, 69.
+* H. Atmanspacher, and **R. Prentner**. [Editorial: Perspectives on Panpsychism](https://www.mindmatter.de/resources/pdf/editorial22_1.pdf), *Mind and Matter*, 22(1), 3-7.
+* **R. Prentner** and Donald D. Hoffman. [Interfacing Consciousness](https://doi.org/10.3389/fpsyg.2024.1429376), *Frontiers in Psychology*, 15, 1429376.
+
+
 ## 2023
 
-* L. Albantakis, **R. Prentner**, and Ian T. Durham [Reply to Rourk, C.](https://doi.org/10.3390/e25101442), *Entropy*, 25(10), 1442.
-* H. Atmanspacher, and **R. Prentner**, [Editorial: Exceptional Experiences](https://www.mindmatter.de/resources/pdf/editorial21_1www.pdf), *Mind and Matter*, 21(1), 3-7.
-* L. Albantakis, **R. Prentner**, and Ian T. Durham [Computinh the integrated information of a quantum mechanism](https://doi.org/10.3390/e25030449), *Entropy*, 25(3), 449.
+* H. Atmanspacher, and **R. Prentner**. [Editorial: Artificial Intelligence and Beyond](https://www.mindmatter.de/resources/pdf/editorial21_1www.pdf), *Mind and Matter*, 21(2), 149-154.
+* L. Albantakis, **R. Prentner**, and Ian T. Durham. [Reply to Rourk, C.](https://doi.org/10.3390/e25101442), *Entropy*, 25(10), 1442.
+* H. Atmanspacher, and **R. Prentner**. [Editorial: Exceptional Experiences](https://www.mindmatter.de/resources/pdf/editorial21_1www.pdf), *Mind and Matter*, 21(1), 3-7.
+* L. Albantakis, **R. Prentner**, and Ian T. Durham. [Computing the integrated information of a quantum mechanism](https://doi.org/10.3390/e25030449), *Entropy*, 25(3), 449.
 * D.D. Hoffman, C. Prakash, and **R. Prentner**. [Fusions of Consciousness](https://doi.org/10.3390/e25010129), *Entropy*, 25(1), 129.
 
 ## 2022
