@@ -21,6 +21,7 @@ author_profile: true
 
 * **R. Prentner**. [Applying category theory to the study of Consciousness?](https://psyarxiv.com/3vhg9/), v2 Dec 28, 2022.
 * **R. Prentner**. [Bewusstsein und Beziehung](https://philpapers.org/rec/PREBUB), v1 Nov 3, 2022.
+* C.M. Signorelli, I. Cea, and **R. Prentner**. [We need to explain subjectivity, but its explanation may not be mechanistic](https://psyarxiv.com/e6kdg), v1 Aug 19, 2022.
 * S. Dobson, and **R. Prentner**. [Perfectoid Diamonds and n-Awareness. A Meta-Model of Subjective Experience](http://arxiv.org/abs/2102.07620), v1 Feb 12 2021.
 * **R. Prentner**. [Attracting Sets in Perceptual Networks](https://arxiv.org/abs/2009.08101), v1 Sep 17, 2020.
 * **R. Prentner**. [A Predictive Strategy for the Iterated Prisoner's Dilemma](https://arxiv.org/abs/2009.01668), v2 Sep 4, 2020.
@@ -43,7 +44,6 @@ author_profile: true
 
 ## 2022
 
-* C.M. Signorelli, I. Cea, and **R. Prentner**. [We need to explain subjectivity, but its explanation may not be mechanistic](https://psyarxiv.com/e6kdg), submitted.
 * H. Atmanspacher, and **R. Prentner**, [Editorial: Self, Time, and Quantum](https://www.mindmatter.de/resources/pdf/editorial20_2www.pdf), *Mind and Matter*, 20(2), 173-176.
 * **R. Prentner**. [Book Review: Dual Aspect Monism and the Deep Structure of Meaning](https://doi.org/10.53765/20512201.29.11.232), *Journal of Consciousness Studies*, 29(11-12),2022.
 * **R. Prentner**, and D.D. Hoffman. [Schrödinger and the conscious universe](https://iai.tv/articles/schroedinger-and-the-conscious-universe-auid-2192?_auid=2020) , *iai tv*, 25th July 2022.
