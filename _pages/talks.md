@@ -10,6 +10,11 @@ author_profile: true
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %} -->
+*	*The nature of understanding in mathematics and AI*, Seminar at the Institute of Mathematical Science, ShanghaiTech University, **December 2024**.
+*	*Q-networks and the nature of reality*, Sun Yat-Sen University, **November 2024**.
+*	*Mathematical consciousness studies, computational correlates, and category theory*, Colloquium of the Institute of Mathematical Science, ShanghaiTech University, **October 2024**.
+*	*Mathematized Phenomenology, Q-networks, and AI*, Models of Consciousness 5, Bamberg University, **September 2024**.
+*	*Phenomenology-first approaches and category theory*, Qualia Structure Summer School, CiNet Osaka, **June 2024**.
 * *Meaning and Consciousness in Process Idealism*, 7th Workshop on Biological Mentality, Ann Arbor, MI, **October 2023**.
 * *Mathematizing Phenomenology within a Process Framework*, Models of Consciousness, University of Oxford, **September 2023**.
 * *Phenomena of the Infinite Substance*, 13th International Whitehead Congress, Munich School of Philosophy, **July 2023**.
