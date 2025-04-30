@@ -19,7 +19,7 @@ author_profile: true
 
 ## Preprints 
 
-* C.M. Signorelli, **R. Prentner**, I. Cea, and L. Melloni [The science of consciousness beyond neuroscience]([https://psyarxiv.com/e6kdg](https://doi.org/10.31234/osf.io/bhj9t_v1)), v1 Feb 25, 2025.
+* C.M. Signorelli, **R. Prentner**, I. Cea, and L. Melloni, [The science of consciousness beyond neuroscience](https://doi.org/10.31234/osf.io/bhj9t_v1), v1 Feb 25, 2025.
 * **R. Prentner**, [Applying category theory to the study of Consciousness?](https://psyarxiv.com/3vhg9/), v2 Dec 28, 2022.
 * **R. Prentner**, [Bewusstsein und Beziehung](https://philpapers.org/rec/PREBUB), v1 Nov 3, 2022.
 * C.M. Signorelli, I. Cea, and **R. Prentner**, [We need to explain subjectivity, but its explanation may not be mechanistic](https://psyarxiv.com/e6kdg), v1 Aug 19, 2022.
