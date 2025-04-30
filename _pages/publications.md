@@ -19,7 +19,7 @@ author_profile: true
 
 ## Preprints 
 
-* **R. Prentner**, Daoist Unity of Science, the Bifurcation of Nature, and Technology, 2024.
+* C.M. Signorelli, **R. Prentner**, I. Cea, and L. Melloni [The science of consciousness beyond neuroscience]([https://psyarxiv.com/e6kdg](https://doi.org/10.31234/osf.io/bhj9t_v1)), v1 Feb 25, 2025.
 * **R. Prentner**, [Applying category theory to the study of Consciousness?](https://psyarxiv.com/3vhg9/), v2 Dec 28, 2022.
 * **R. Prentner**, [Bewusstsein und Beziehung](https://philpapers.org/rec/PREBUB), v1 Nov 3, 2022.
 * C.M. Signorelli, I. Cea, and **R. Prentner**, [We need to explain subjectivity, but its explanation may not be mechanistic](https://psyarxiv.com/e6kdg), v1 Aug 19, 2022.
@@ -29,7 +29,8 @@ author_profile: true
 <!-- [Pluralist-Monism. Derived Category Theory as the Grammar of n-Awareness](https://arxiv.org/abs/2009.01691), v1 Sep 2, 2020. -->
 
 ## 2025
-* **R. Prentner**, Mathematized Phenomenology and the Science of Consciousness, *Phenomenology and the Cognitive Sciences*, accepted.
+* **R. Prentner**, Daoist Unity of Science, the Bifurcation of Nature, and Technology, in press.
+* **R. Prentner**, [Mathematized Phenomenology and the Science of Consciousness](https://doi.org/10.1007/s11097-025-10060-z), *Phenomenology and the Cognitive Sciences*, accepted.
 
 ## 2024
 * **R. Prentner**, and S. Dobson. [Artistic Mediation in Mathematized Phenomenology](https://philarchive.org/archive/PREAMI-2), *Women in MathArt – Research, Creativity, and Teaching*, Cham: Springer, pp. 81-92.
