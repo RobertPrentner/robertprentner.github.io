@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Interface Consciousness Engineering"
 permalink: /portfolio/
 author_profile: true
 ---
