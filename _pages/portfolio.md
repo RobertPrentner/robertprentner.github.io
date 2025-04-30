@@ -21,4 +21,4 @@ AI consciousness research is a *technology–driven* endeavor. We aim to impleme
 
 ## Two pillars, one vision
 
-## [A. Agent-Networks and Spacetime](https://doi.org/10.31234/osf.io/bhj9t_v1)
+## [A. Agent-Networks and Spacetime](_portfolio/projectA)
