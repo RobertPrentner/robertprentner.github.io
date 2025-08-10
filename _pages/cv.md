@@ -48,6 +48,10 @@ Reviewer Activities
 
 Teaching Experience
 ======
+* *Introduction to Technophilosophy: Virtual Worlds*, Spring semester 2025, ShanghaiTech University.
+* *Can a Machine Be Conscious?* Spring semester 2025, ShanghaiTech University.
+* *The Case Against Reality: Neuroscience*, Consciousness, and AI, Fall semester 2024, ShanghaiTech University.
+* *History of Science and Philosophical Worldviews*, Fall semester 2024, ShanghaiTech University.
 * *Advanced Formal Methods in the Philosophy of Cognitive Science and Consciousness Studies*, LMU München, Germany.
 * *Schopenhauer: The World as Will and Representation*, LMU München, Germany.
 * *Introduction to Process Philosophy*, LMU München, Germany.
@@ -75,6 +79,8 @@ Student Supervisions
 <!--
 Scholarships and Honors
 ======
+* BYL Young Talent Award of the Shanghai Municipal Government, 2024
+* Price for the best seminar (third place) for seminars on “Introduction to Process Philosophy” and “Modern Consciousness Studies” awarded by the LMU München philosophy student council, 2023
 * PostDoc.Mobility Fellowship 2018
 * ETH Medal 2013
 * Participation at the Manfred-Eigen-Nachwuchsgespräche 2008
