@@ -22,14 +22,16 @@ author_profile: true
 * C.M. Signorelli, **R. Prentner**, I. Cea, and L. Melloni, [The science of consciousness beyond neuroscience](https://doi.org/10.31234/osf.io/bhj9t_v1), v1 Feb 25, 2025.
 * **R. Prentner**, [Applying category theory to the study of Consciousness?](https://psyarxiv.com/3vhg9/), v2 Dec 28, 2022.
 * **R. Prentner**, [Bewusstsein und Beziehung](https://philpapers.org/rec/PREBUB), v1 Nov 3, 2022.
-* C.M. Signorelli, I. Cea, and **R. Prentner**, [We need to explain subjectivity, but its explanation may not be mechanistic](https://psyarxiv.com/e6kdg), v1 Aug 19, 2022.
 * S. Dobson, and **R. Prentner**, [Perfectoid Diamonds and n-Awareness. A Meta-Model of Subjective Experience](http://arxiv.org/abs/2102.07620), v1 Feb 12 2021.
 * **R. Prentner**, [Attracting Sets in Perceptual Networks](https://arxiv.org/abs/2009.08101), v1 Sep 17, 2020.
 * **R. Prentner**, [A Predictive Strategy for the Iterated Prisoner's Dilemma](https://arxiv.org/abs/2009.01668), v2 Sep 4, 2020.
 <!-- [Pluralist-Monism. Derived Category Theory as the Grammar of n-Awareness](https://arxiv.org/abs/2009.01691), v1 Sep 2, 2020. -->
 
 ## 2025
-* **R. Prentner**, Daoist Unity of Science, the Bifurcation of Nature, and Technology, in press.
+* **R. Prentner***. [Artificial Consciousness as Interface Representation](https://arxiv.org/abs/2508.04383), _Lecture Notes in AI
+(AGI-25)_, 2025.
+* C.M. Signorelli, I. Cea, and **R. Prentner**, [We need to explain subjectivity, but its explanation may not be mechanistic](https://psyarxiv.com/e6kdg), _Neuroscience of Consciousness_ (accepted).
+* **R. Prentner**, Daoist Unity of Science, the Bifurcation of Nature, and Technology, _Journal of Contemporary Chinese Philosophy_ (in press).
 * **R. Prentner**, [Mathematized Phenomenology and the Science of Consciousness](https://doi.org/10.1007/s11097-025-10060-z), *Phenomenology and the Cognitive Sciences*, accepted.
 
 ## 2024
