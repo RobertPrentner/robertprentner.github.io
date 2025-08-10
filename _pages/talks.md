@@ -10,6 +10,9 @@ author_profile: true
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %} -->
+* *Aritificial Consciousness as Interface Representation: Introducing SLP-tests*, Reykjavík University, **August 2025**.
+*	*From Mathematized Phenomenology to Artificial Phenomenology*, LMU Munich, **July 2025**.
+* *Artificial Intelligence and the Architecture of Experience*, Shaanxi Normal University, **June 2025**.
 *	*The nature of understanding in mathematics and AI*, Seminar at the Institute of Mathematical Science, ShanghaiTech University, **December 2024**.
 *	*Q-networks and the nature of reality*, Sun Yat-Sen University, **November 2024**.
 *	*Mathematical consciousness studies, computational correlates, and category theory*, Colloquium of the Institute of Mathematical Science, ShanghaiTech University, **October 2024**.
