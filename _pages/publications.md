@@ -28,7 +28,7 @@ author_profile: true
 <!-- [Pluralist-Monism. Derived Category Theory as the Grammar of n-Awareness](https://arxiv.org/abs/2009.01691), v1 Sep 2, 2020. -->
 
 ## 2025
-* **R. Prentner***. [Artificial Consciousness as Interface Representation](https://arxiv.org/abs/2508.04383), _Lecture Notes in AI
+* **R. Prentner**. [Artificial Consciousness as Interface Representation](https://arxiv.org/abs/2508.04383), _Lecture Notes in AI
 (AGI-25)_, 2025.
 * C.M. Signorelli, I. Cea, and **R. Prentner**, [We need to explain subjectivity, but its explanation may not be mechanistic](https://psyarxiv.com/e6kdg), _Neuroscience of Consciousness_ (accepted).
 * **R. Prentner**, Daoist Unity of Science, the Bifurcation of Nature, and Technology, _Journal of Contemporary Chinese Philosophy_ (in press).
