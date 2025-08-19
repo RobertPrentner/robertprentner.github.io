@@ -28,7 +28,7 @@ author_profile: true
 <!-- [Pluralist-Monism. Derived Category Theory as the Grammar of n-Awareness](https://arxiv.org/abs/2009.01691), v1 Sep 2, 2020. -->
 
 ## 2025
-  * **R. Prentner**. [Beyond Objects and Processes: Interfaces and the non-dual ground of perception and cognition.](https://doi.org/10.1016/j.plrev.2025.08.005) Comment on “Thoughts and Thinkers” by C. Fields and M. Levin, _Physics of Life Reviews_. 
+  * **R. Prentner**. [Beyond Objects and Processes: Interfaces and the non-dual ground of perception and cognition. Comment on “Thoughts and Thinkers” by C. Fields and M. Levin](https://doi.org/10.1016/j.plrev.2025.08.005), _Physics of Life Reviews_. 
 * **R. Prentner**. [Artificial Consciousness as Interface Representation](https://arxiv.org/abs/2508.04383), _Lecture Notes in AI 16058
 (Proceedings of AGI-25)_.
 * C.M. Signorelli, I. Cea, and **R. Prentner**, [We need to explain subjectivity, but its explanation may not be mechanistic](https://psyarxiv.com/e6kdg), _Neuroscience of Consciousness_ (accepted).
