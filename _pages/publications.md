@@ -27,13 +27,17 @@ author_profile: true
 * **R. Prentner**, [A Predictive Strategy for the Iterated Prisoner's Dilemma](https://arxiv.org/abs/2009.01668), v2 Sep 4, 2020.
 <!-- [Pluralist-Monism. Derived Category Theory as the Grammar of n-Awareness](https://arxiv.org/abs/2009.01691), v1 Sep 2, 2020. -->
 
+## 2026
+* **R. Prentner**. [Categorical AI Phenomenology: A First-Person Approach](https://doi.org/10.1142/S2705078526500013), _Journal of Artificial Intelligence and Consciousness_.
+* C.M. Signorelli, I. Cea, and **R. Prentner**. [We need to explain subjectivity, but its explanation may not be mechanistic](https://doi.org/10.1093/nc/niaf034), _Neuroscience of Consciousness_.
+* **R. Prentner**.  [Quantum Interface Theory: From Conscious Agents to Quantum Dynamics](https://doi.org/10.53765/20512201.33.1.194 ), _Journal of Consciousness Studies_. 
+
 ## 2025
-  * **R. Prentner**. [Beyond Objects and Processes: Interfaces and the non-dual ground of perception and cognition.](https://doi.org/10.1016/j.plrev.2025.08.005)Comment on “Thoughts and Thinkers” by C. Fields and M. Levin _Physics of Life Reviews_. 
+  * **R. Prentner**. [Beyond Objects and Processes: Interfaces and the non-dual ground of perception and cognition.](https://doi.org/10.1016/j.plrev.2025.08.005) Comment on “Thoughts and Thinkers” by C. Fields and M. Levin _Physics of Life Reviews_. 
 * **R. Prentner**. [Artificial Consciousness as Interface Representation](https://arxiv.org/abs/2508.04383), _Lecture Notes in AI 16058
 (Proceedings of AGI-25)_.
-* C.M. Signorelli, I. Cea, and **R. Prentner**, [We need to explain subjectivity, but its explanation may not be mechanistic](https://psyarxiv.com/e6kdg), _Neuroscience of Consciousness_ (accepted).
-* **R. Prentner**, Daoist Unity of Science, the Bifurcation of Nature, and Technology, _Journal of Contemporary Chinese Philosophy_ (in press).
-* **R. Prentner**, [Mathematized Phenomenology and the Science of Consciousness](https://doi.org/10.1007/s11097-025-10060-z), *Phenomenology and the Cognitive Sciences*, accepted.
+* **R. Prentner**, Daoist Unity of Science, the Bifurcation of Nature, and Technology, _Journal of Contemporary Chinese Philosophy_.
+* **R. Prentner**, [Mathematized Phenomenology and the Science of Consciousness](https://doi.org/10.1007/s11097-025-10060-z), *Phenomenology and the Cognitive Sciences*.
 
 ## 2024
 * **R. Prentner**, and S. Dobson. [Artistic Mediation in Mathematized Phenomenology](https://philarchive.org/archive/PREAMI-2), *Women in MathArt – Research, Creativity, and Teaching*, Cham: Springer, pp. 81-92.
