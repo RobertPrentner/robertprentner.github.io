@@ -36,7 +36,7 @@ author_profile: true
   * **R. Prentner**. [Beyond Objects and Processes: Interfaces and the non-dual ground of perception and cognition.](https://doi.org/10.1016/j.plrev.2025.08.005) Comment on “Thoughts and Thinkers” by C. Fields and M. Levin _Physics of Life Reviews_. 
 * **R. Prentner**. [Artificial Consciousness as Interface Representation](https://arxiv.org/abs/2508.04383), _Lecture Notes in AI 16058
 (Proceedings of AGI-25)_.
-* **R. Prentner**, Daoist Unity of Science, the Bifurcation of Nature, and Technology, _Journal of Contemporary Chinese Philosophy_.
+* **R. Prentner**, [Daoist Unity of Science, the Bifurcation of Nature, and Technology](https://doi.org/10.1163/29502799-bja10010), _Journal of Contemporary Chinese Philosophy_.
 * **R. Prentner**, [Mathematized Phenomenology and the Science of Consciousness](https://doi.org/10.1007/s11097-025-10060-z), *Phenomenology and the Cognitive Sciences*.
 
 ## 2024
